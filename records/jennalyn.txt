@@ -1,0 +1,768 @@
+Jennalyn
+dragoness@jennalyn.net
+
+Quox: Unlimited
+
+Used Items
+----------------------------------------------
+Aqua Gem (Fleur Charmante)
+Billow and Brume Attack [Level 1] (Fleur Charmante)
+Broken Mirror *unique* (Fleur Charmante)
+Element of Cloud (Fleur Charmante)
+Element of Flint (Areia Escura)
+Element of Gravity (Chokore-to)
+Eternal Consequence Attack [Level 1] (Chokore-to)
+Eye Color Addition (Fleur Charmante)
+Gravitate Attack [Level 1] (Chokore-to)
+Helmut (Toben)
+Immediate Pressure Attack [Level 1] (Chokore-to)
+Light Flicker Attack [Level 1] (Areia Escura)
+Paw Guards (Chokore-to)
+Pink Gem (Fleur Charmante)
+Pink Shell *unique* (Fleur Charmante)
+Razor Wings (Lapis)
+Roll Attack [Level 2] (Lapis)
+Snarl Attack [Level 1] (Lapis)
+Steel/Crystal Head Gear *unique* (Chokore-to)
+Strength Potion (Chokore-to)
+
+Unused Items
+----------------------------------------------
+Day Flower (2)
+Drive Attack [Level 1]
+Fog Blanket Attack [Level 1]
+Hyrulian Shield *unique*
+Poppy (2)
+Rose (2)
+Vapor Attack [Level 1]
+Wood Sorrel (2)
+
+Unique Items
+----------------------------------------------
+Broken Mirror
+Requirements: None
+Effect: Strength +5 or can be melted down for the gold and jewels.
+Description: Small mirror that was found in an underground stream. It is pretty tarnished and there is a long crack in the middle of the glass. It is made of gold and has small gems embedded in the metal.
+
+Hyrulian Shield
+Requirements: Strength 50
+Effect: Defense +35%
+
+Pink Shell
+Requirements: None
+Effect: Added as decoration or jewelry.
+Description: Small pink shell.
+
+Steel/Crystal Mix Head Gear
+Requirements: Strength 35
+Effect: Defense +15%
+Description: Thick steel helmut that has a strong patch of Eldorian Crystal protecting the forehead and top of the head of the helmut.
+
+----------------------------------------------
+Records for Chokore-to (ng003m)
+----------------------------------------------
+ID#: ng003m
+Name: Chokore-to
+Charm of Nai's Glory
+Chocolate brown male, golden eyes, plant tatto
+Stage 1.0
+Life Points: 100
+Strength: 25
+Speed: 40
+Intelligence: 20
+Cunning: 30
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Jennalyn
+Drawn: 05/20/04
+Starter Naisuk
+
+ID#: ng003m
+Name: Chokore-to
+Charm of Nai's Glory
+Dusty gray male, golden eyes, plant tattoo
+Steel/Crystal Mix Headgear, Steel Chain Mail, Paw Guards, Back spikes
+Gravity Elemental
+Stage 1.1
+Additions: Element of Gravity, Steel/Crystal Mix Headgear, Paw Guards, 
+Strength Power Potion
+Life Points: 100
+Strength: 35
+Speed: 40
+Intelligence: 20
+Cunning: 30
+Defense: 70 (Base: 40 + 35% from Bone Back spikes + 20% from Steel Chain Mail + 15% from Steel/Crystal Headgear + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Gravity Attacks:
+Earth's Weight -- 40 Damage
+Gravitate -- opponent's next attack misses; lowers opponent's Defense by 5% of current value each time used; may only be used 3x per battle
+Owner: Jennalyn
+Redrawn: 06/18/04
+Notes: The Strength Power Potion caused Bone Back spikes to Grow on Cho's 
+back. he has also developed a minor sense of Telekinesis. He can move about 
+50lbs with a mere thought. He may be able to improve this with age. The Symbol 
+for Strength is on his back. His Element of Gravity has caused his fur to turn 
+gray and gain steel chain mail. His Elemental Symbol for Gravity is on his front left paw.
+
+Stat Additions (11/19/04):
+ID#: ng003m
+Name: Chokore-to
+Charm of Nai's Glory
+Dusty gray male, golden eyes, plant tattoo
+Steel/Crystal Mix Headgear, Steel Chain Mail, Paw Guards, Back spikes
+Gravity Elemental
+Stage 1.1
+Life Points: 120
+Strength: 45
+Speed: 45
+Intelligence: 20
+Cunning: 33
+Defense: 70 (Base: 40 + 35% from Bone Back spikes + 20% from Steel Chain Mail + 15% from Steel/Crystal Headgear + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Gravity Attacks:
+Earth's Weight -- 40 Damage
+Gravitate -- opponent's next attack misses; lowers opponent's Defense by 5% of current value each time used; may only be used 3x per battle
+Owner: Jennalyn
+Redrawn: 06/18/04
+
+Stat Additions (01/26/05):
+ID#: ng003m
+Name: Chokore-to
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Dusty gray male, golden eyes, plant tattoo
+Steel/Crystal Mix Headgear, Steel Chain Mail, Paw Guards, Back spikes
+Gravity Elemental
+Stage 1.1
+Life Points: 130
+Strength: 50
+Speed: 50
+Intelligence: 20
+Cunning: 35
+Defense: 70 (Base: 40 + 35% from Bone Back spikes + 20% from Steel Chain Mail + 15% from Steel/Crystal Headgear + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Wallop -- 60 Damage
+Gravity Attacks:
+Earth's Weight -- 40 Damage
+Gravitate -- opponent's next attack misses; lowers opponent's Defense by 5% of current value each time used; may only be used 3x per battle
+Owner: Jennalyn
+Redrawn: 06/18/04
+
+ID#: ng003m
+Name: Chokore-to
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Dusty gray male, golden eyes, plant tattoo
+Steel/Crystal Mix Headgear, Steel Chain Mail, Paw Guards, Back spikes
+Gravity Elemental
+Stage 2.0
+Life Points: 180
+Strength: 70
+Speed: 70
+Intelligence: 40
+Cunning: 55
+Defense: 105 (Base: 60 + 35% from Bone Back spikes + 20% from Steel Chain Mail + 15% from Steel/Crystal Headgear + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Wallop -- 60 Damage
+Menace -- takes 10 Damage away from opponent's next damaging attack; may only be used 3x per battle
+Gravity Attacks:
+Earth's Weight -- 40 Damage
+Gravitate -- opponent's next attack misses; lowers opponent's Defense by 5% of current value each time used; may only be used 3x per battle
+Owner: Jennalyn
+Redrawn: 06/18/04
+
+Stat Additions (04/16/05):
+ID#: ng003m
+Name: Chokore-to
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Dusty gray male, golden eyes, plant tattoo
+Steel/Crystal Mix Headgear, Steel Chain Mail, Paw Guards, Back spikes
+Gravity Elemental
+Stage 2.0
+Additions: Eternal Consequence Attack, Immediate pressure Attack
+Life Points: 190
+Strength: 75
+Speed: 70
+Intelligence: 50
+Cunning: 60
+Defense: 105 (Base: 60 + 35% from Bone Back spikes + 20% from Steel Chain Mail + 15% from Steel/Crystal Headgear + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Wallop -- 60 Damage
+Menace -- takes 10 Damage away from opponent's next damaging attack; may only be used 3x per battle
+Gravity Attacks:
+Earth's Weight -- 40 Damage
+Gravitate -- opponent's next attack misses; lowers opponent's Defense by 5% of current value each time used; may only be used 3x per battle
+Eternal Consequence -- 55 Damage
+Immediate Pressure -- 65 Damage
+Owner: Jennalyn
+Redrawn: 06/18/04
+
+Stat Additions (08/07/05):
+ID#: ng003m
+Name: Chokore-to
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Dusty gray male, golden eyes, plant tattoo
+Steel/Crystal Mix Headgear, Steel Chain Mail, Paw Guards, Back spikes
+Gravity Elemental
+Stage 2.0
+Additions: Eternal Consequence Attack, Immediate pressure Attack
+Life Points: 195
+Strength: 75
+Speed: 70
+Intelligence: 50
+Cunning: 60
+Defense: 123 (Base: 70 + 35% from Bone Back spikes + 20% from Steel Chain Mail + 15% from Steel/Crystal Headgear + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Wallop -- 60 Damage
+Menace -- takes 10 Damage away from opponent's next damaging attack; may only be used 3x per battle
+Gravity Attacks:
+Earth's Weight -- 40 Damage
+Gravitate -- opponent's next attack misses; lowers opponent's Defense by 5% of current value each time used; may only be used 3x per battle
+Eternal Consequence -- 55 Damage
+Immediate Pressure -- 65 Damage
+Owner: Jennalyn
+Redrawn: 06/18/04
+
+----------------------------------------------
+Records for Fleur Charmante (ng013f)
+----------------------------------------------
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Cream female, red flower petal markings, pale blue eyes
+Fluffy tail, fluffy ears
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Jennalyn
+Drawn: 05/30/04
+Hunt Prize
+
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Cream female, red flower petal markings, pale blue eyes with purple swirls
+Fluffy tail, fluffy ears
+Stage 1.1
+Additions: Eye Color Addition, Pink Shell Necklace, Broken Mirror Pieces
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Jennalyn
+Redrawn: 06/18/04
+Note: Inscribed on the back of the shell reads, "To Fleur from Cho." 
+When melted down, the Broken Mirror produced 5 deep red gems and enough Gold to make a bracelet.
+
+Stat Additions (11/19/04):
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Cream female, red flower petal markings, pale blue eyes with purple swirls
+Fluffy tail, fluffy ears
+Stage 1.1
+Life Points: 115
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Jennalyn
+Redrawn: 06/18/04
+
+Stat Additions (01/26/05):
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Cream female, red flower petal markings, pale blue eyes with purple swirls
+Fluffy tail, fluffy ears
+Stage 1.1
+Life Points: 120
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Jennalyn
+Redrawn: 06/18/04
+
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Cream female, red flower petal markings, pale blue eyes with purple swirls
+Fluffy tail, fluffy ears
+Cloud Elemental
+Stage 1.2
+Additions: Element of Cloud
+Life Points: 120
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Owner: Jennalyn
+Redrawn: 01/30/05
+Notes: The Element of Cloud gave Fleur fluffy wings.
+
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Cream Female, Red Flower Petal Markings, Pale Blue Eyes with Purple Swirls
+Fluffy Tail, Fluffy Ears, White and Muted Red Feathered Wings
+Cloud Elemental
+Stage 1.3
+Additions: Muted Red Tattoos
+Life Points: 120
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Owner: Jennalyn
+Redrawn: 04/03/05
+
+Stat Additions (04/16/05):
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Cream Female, Red Flower Petal Markings, Pale Blue Eyes with Purple Swirls
+Fluffy Tail, Fluffy Ears, White and Muted Red Feathered Wings
+Cloud Elemental
+Stage 1.3
+Additions: Muted Red Tattoos
+Life Points: 130
+Strength: 35
+Speed: 50
+Intelligence: 35
+Cunning: 43
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Owner: Jennalyn
+Redrawn: 04/03/05
+
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Cream Female, Red Flower Petal Markings, Pale Blue Eyes with Purple Swirls
+Fluffy Tail, Fluffy Ears, White and Muted Red Feathered Wings, Aqua Stone, Pink Stone
+Cloud Elemental
+Stage 2.0
+Additions: Aqua Stone, Pink Stone, Billow and Brume Attack
+Life Points: 180
+Strength: 55
+Speed: 70
+Intelligence: 55
+Cunning: 63
+Defense: 55
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Billow and Brume -- 55 Damage
+Owner: Jennalyn
+Redrawn: 05/21/05
+Note: Fleur's Intelligence and Defense were not high enough to learn Vapor.
+
+Stat Additions (08/07/05):
+ID#: ng013f
+Name: Fleur Charmante
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Cream Female, Red Flower Petal Markings, Pale Blue Eyes with Purple Swirls
+Fluffy Tail, Fluffy Ears, White and Muted Red Feathered Wings, Aqua Stone, Pink Stone
+Cloud Elemental
+Stage 2.0
+Additions: Aqua Stone, Pink Stone, Billow and Brume Attack
+Life Points: 185
+Strength: 55
+Speed: 70
+Intelligence: 60
+Cunning: 65
+Defense: 60
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Billow and Brume -- 55 Damage
+Owner: Jennalyn
+Redrawn: 05/21/05
+Note: Fleur's Intelligence and Defense were not high enough to learn Vapor.
+
+----------------------------------------------
+Records for Farore (ng028f)
+----------------------------------------------
+ID#: ng028f
+Name: Farore
+Charm of Nai's Glory
+Green Female with Green Plant Markings, Green Glowing Eyes
+Triforce of Courage
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Farore's Wind -- 45 Damage *Unique*
+Owner: Jennalyn
+Drawn: 09/19/04
+Triforce Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng028f
+Name: Farore
+Charm of Nai's Glory
+Green Female with Green Plant Markings, Green Glowing Eyes
+Triforce of Courage
+Stage 1.0
+Life Points: 105
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Farore's Wind -- 45 Damage *Unique*
+Owner: Jennalyn
+Drawn: 09/19/04
+
+Stat Additions (01/26/05):
+ID#: ng028f
+Name: Farore
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Green Female with Green Plant Markings, Green Glowing Eyes
+Triforce of Courage
+Stage 1.0
+Life Points: 110
+Strength: 35
+Speed: 40
+Intelligence: 40
+Cunning: 40
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Farore's Wind -- 45 Damage *Unique*
+Owner: Jennalyn
+Drawn: 09/19/04
+
+ID#: ng028f
+Name: Farore
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Green Female with Green Plant Markings, Green Glowing Eyes
+Extended Plant Tattoos
+Triforce of Courage
+Stage 1.1
+Additions: Extended Plant Tattoos
+Life Points: 110
+Strength: 35
+Speed: 40
+Intelligence: 40
+Cunning: 40
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Farore's Wind -- 45 Damage *Unique*
+Owner: Jennalyn
+Redrawn: 03/12/05
+
+Stat Additions (04/16/05):
+ID#: ng028f
+Name: Farore
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Green Female with Green Plant Markings, Green Glowing Eyes
+Extended Plant Tattoos
+Triforce of Courage
+Stage 1.1
+Additions: Extended Plant Tattoos
+Life Points: 120
+Strength: 45
+Speed: 40
+Intelligence: 40
+Cunning: 40
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Farore's Wind -- 45 Damage *Unique*
+Owner: Jennalyn
+Redrawn: 03/12/05
+
+ID#: ng028f
+Name: Farore
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Green female with Green Plant Markings, Green Glowing Eyes
+Extended Plant Tattoos, Gold Leg Bracers
+Triforce of Courage
+Stage 1.2
+Additions: Leg Braces
+Life Points: 120
+Strength: 45
+Speed: 40
+Intelligence: 40
+Cunning: 40
+Defense: 42 (Base: 35 + 20% from Leg Braces)
+General Attacks:
+Bellow -- lowers opponent's Defense 10% of original value each time
+Gnaw -- 30 Damage
+Farore's Wind -- 45 Damage *Unique*
+Owner: Jennalyn
+Redrawn: 05/30/05 by Astar
+
+Stat Additions (08/07/05):
+ID#: ng028f
+Name: Farore
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Green female with Green Plant Markings, Green Glowing Eyes
+Extended Plant Tattoos, Gold Leg Bracers
+Triforce of Courage
+Stage 1.2
+Additions: Leg Braces
+Life Points: 125
+Strength: 55
+Speed: 40
+Intelligence: 40
+Cunning: 40
+Defense: 42 (Base: 35 + 20% from Leg Braces)
+General Attacks:
+Bellow -- lowers opponent's Defense 10% of original value each time
+Gnaw -- 30 Damage
+Farore's Wind -- 45 Damage *Unique*
+Owner: Jennalyn
+Redrawn: 05/30/05 by Astar
+
+----------------------------------------------
+Records for Lapis (eh01f)
+----------------------------------------------
+ID#: eh01f
+Name: Lapis
+Clan of Eorl's Honor
+Blue female, aqua eyes
+Appaloosa Spots
+White Talons, Back Spines, Unique Chest Shield
+Stage: 2.0
+Additions: Unique Chest Shield, Pattern Addition
+Life Points: 175
+Strength: 55
+Speed: 60
+Intelligence: 55
+Cunning: 58
+Defense: 87 (Base: 60 + 20% from Back Spines + 25% from Chest Shield)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Headbutt -- 40 Damage
+Charge -- 60 Damage; Damage to self inflicted each time used (10% of original Life Point value)
+Snarl -- lowers opponent's Defense by 20% of original stat each time used; may only be used 3x per battle
+Owner: Jennalyn
+Redrawn: 02/22/03
+
+ID#: eh01f
+Name: Lapis
+Clan of Eorl's Honor
+Blue female, aqua eyes
+Appaloosa Spots
+White Talons, Back Spines, Unique Chest Shield, Razor Wings
+Stage: 2.1
+Additions: Razor Wings, Roll Attack
+Life Points: 175
+Strength: 55
+Speed: 60
+Intelligence: 55
+Cunning: 58
+Defense: 87 (Base: 60 + 20% from Back Spines + 25% from Chest Shield)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Headbutt -- 40 Damage
+Charge -- 60 Damage; Damage to self inflicted each time used (10% of original Life Point value)
+Snarl -- lowers opponent's Defense by 20% of original stat each time used; may only be used 3x per battle
+Roll -- 65 Damage (augmented by Razor Wings)
+Owner: Jennalyn
+Redrawn: 01/30/05
+Notes: Razor Wings augment Lapis' Roll Attack, but he probably won't be able to fly unless he gets some material put on them.
+
+----------------------------------------------
+Records for Dzayr (eh20m)
+----------------------------------------------
+ID#: eh20m
+Name: Dzayr
+Clan of Eorl's Honor
+Halloween Eorlan
+Black male, icy eyes
+Blue Zebra Stripes, Blue Markings, Husky Tail
+Claws, Small Horns, Neck Collar, Icy Blue Tattoos on Wings
+Dark Elemental
+Stage: 1.2
+Additions: Icy Blue Tattoos on Wings
+Life Points: 145
+Strength: 45
+Speed: 45
+Intelligence: 30
+Cunning: 38
+Defense: 63 (Base: 60 + 5% from Neck Collar)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Dark Attacks:
+Night Strike -- 40 Damage
+Owner: Jennalyn
+Redrawn: 04/03/05
+
+----------------------------------------------
+Records for Areia Escura (ep052f)
+----------------------------------------------
+ID#: ep052f
+Clan of Eorl's Pride
+Dirty red female, green eyes
+Long Mane, Furry Tail
+Flint Elemental
+Stage 1.1
+Additions: Element of Flint, Light Flicker Attack
+Life Points: 140
+Strength: 45
+Speed: 45
+Intelligence: 35
+Cunning: 30
+Defense: 45
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 40 Damage (augmented by Fangs)
+Flint Attacks:
+Spark -- 40 Damage
+Light Flicker -- opponent's next attack misses
+Owner: Jennalyn
+Redrawn: 01/30/05
+
+ID#: ep052f
+Clan of Eorl's Pride
+Dirty red female, green eyes
+Long Mane, Furry Tail
+Flint Tattoo
+Flint Elemental
+Stage 1.2
+Additions:Flint Tattoo
+Life Points: 140
+Strength: 45
+Speed: 45
+Intelligence: 35
+Cunning: 30
+Defense: 45
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 40 Damage (augmented by Fangs)
+Flint Attacks:
+Spark -- 40 Damage
+Light Flicker -- opponent's next attack misses
+Owner: Jennalyn
+Redrawn: 03/12/05
+
+----------------------------------------------
+Records for Happun (is004m)
+----------------------------------------------
+ID#: is004m
+Name: Happun
+Warren of Iern's Spirit
+Tan Male with Green Swirl Markings, Gray Eyes
+5 Paint Splash Markings, Pink Triangle Tattoo
+Stage: 1.2
+Additions: Pink Triangle Tattoo
+Life: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Shriek -- lowers opponent's Defense by 10% of original value each time used
+Snap -- 30 Damage
+Mangle -- 40 Damage
+Owner: Jennalyn
+Redrawn: 03/12/05
+
+----------------------------------------------
+Records for Toben (tf009m)
+----------------------------------------------
+ID#: tf009m
+Name: Toben
+Pride Of Tyr's Fury
+Orange Male with Burnt Orange Stripes, Hunter Green Eyes
+Saber Teeth, Steel Helmut
+Stage 1.1
+Additions: Steel Helmut
+Life Points: 115
+Strength: 45
+Speed: 35
+Intelligence: 25
+Cunning: 30
+Defense: 39 (Base: 35 + 10% from Steel Helmut)
+Attacks
+Hiss -- lowers opponent's Defense by 10% of original value each time used
+Snap -- 40 Damage (augmented by Saber Teeth)
+Owner: Jennalyn
+Redrawn: 01/30/05

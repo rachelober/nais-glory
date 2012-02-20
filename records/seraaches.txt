@@ -1,0 +1,88 @@
+Seraaches
+seraaches@vagueinsanity.net
+
+Quox: 180q
+
+Used Items
+----------------------------------------------
+Element of Death (Kiiroi Proudstance)
+
+Unused Items
+----------------------------------------------
+Hooker Boots *unique*
+
+Unique Items
+----------------------------------------------
+Hooker Boots
+Requirements: Strength: 45, Speed 45
+Effect: We'll see...
+Description: Black, leather hooker boots
+
+----------------------------------------------
+Records for Masika (ng037f)
+----------------------------------------------
+ID#: ng037f
+Name: Masika
+Charm of Nai's Glory
+Blue Female with Gray Socks and Mask, Yellow Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Seraaches
+Drawn: 02/06/05
+Starter Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng037f
+Name: Masika
+Charm of Nai's Glory
+Blue Female with Gray Socks and Mask, Yellow Eyes
+Stage 1.0
+Life Points: 105
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Seraaches
+Drawn: 02/06/05
+Starter Naisuk
+
+----------------------------------------------
+Records for Kiiroi Proudstance (ep040f)
+----------------------------------------------
+ID#: ep040f
+Name: Kiiroi Proudstance
+Clan of Eorl's Pride
+Mottled gray/yellow female with glowing green eyes
+Faerie Eorlan! RARE!
+Pride Elemental
+Stage 2.1
+Additions: Element of Death
+Life Points: 185
+Strength: 65
+Speed: 65
+Intelligence: 60
+Cunning: 63
+Defense: 60
+Attacks:
+Growl -- lowers opponent's defense by 10% of original each time used
+Nip -- 30 Damage
+Scratch -- 35 Damage
+Pride Attacks:
+Fierce Pride -- 40 Damage
+Death Attacks:
+Death Breath -- 40 Damage
+Owner: Seraaches
+Redrawn: 01/30/05
+Notes: The Element of Death made her ears and tail droopy as well as darkened her coat. It also interacted with the Pride Element and gave her glowing green eyes.

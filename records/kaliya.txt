@@ -1,0 +1,182 @@
+Kaliya
+thehorsegirl2004@yahoo.com
+
+Quox: 205q
+
+Used Items
+----------------------------------------------
+Claws (Faia)
+Double Horns (Akurei)
+Paw Guards (Faia)
+
+Unused Items
+----------------------------------------------
+Helmut
+Mint
+Neck Collar
+Tail Whip Attack [Level 1] (2)
+
+----------------------------------------------
+Records for Faia (ng011f)
+----------------------------------------------
+ID#: ng011f
+Name: Faia
+Charm of Nai's Glory
+Silver female with blue fire socks, sky blue eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kaylia
+Drawn: 05/21/04
+Starter Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng011f
+Name: Faia
+Charm of Nai's Glory
+Silver female with blue fire socks, sky blue eyes
+Stage 1.0
+Life Points: 115
+Strength: 40
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kaylia
+Drawn: 05/21/04
+
+ID#: ng011f
+Name: Faia
+Charm of Nai's Glory
+Silver female with blue fire socks, sky blue eyes
+Long Tail, Tail Spikes
+Stage 1.1
+Additions: Long Tail, Tail Spikes
+Life Points: 115
+Strength: 40
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kaylia
+Redrawn: 12/14/04
+Notes: Long tail and Tail spikes allow Faia to use an augmented Tail Whip if she should buy/find the attack.
+
+Stat Additions (01/26/05):
+ID#: ng011f
+Name: Faia
+Charm of Nai's Glory
+Silver female with blue fire socks, sky blue eyes
+Long Tail, Tail Spikes
+Stage 1.1
+Additions: Long Tail, Tail Spikes
+Life Points: 120
+Strength: 40
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kaylia
+Redrawn: 12/14/04
+
+ID#: ng011f
+Name: Faia
+Charm of Nai's Glory
+Silver Female with Blue Fire Socks, Sky Blue Eyes
+Long Tail, Tail Spikes, Claws, Steel Paw Guards
+Stage 1.2
+Additions: Claws, Steel Paw Guards
+Life Points: 120
+Strength: 40
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 37 (Base: 35 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kaylia
+Redrawn: 02/04/05
+Notes: Faia's Speed wasn't high enough to learn Tail Whip.
+
+Stat Additions (04/16/05):
+ID#: ng011f
+Name: Faia
+Charm of Nai's Glory
+Silver Female with Blue Fire Socks, Sky Blue Eyes
+Long Tail, Tail Spikes, Claws, Steel Paw Guards
+Stage 1.2
+Additions: Claws, Steel Paw Guards
+Life Points: 125
+Strength: 45
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 37 (Base: 35 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kaylia
+Redrawn: 02/04/05
+Notes: Faia's Speed wasn't high enough to learn Tail Whip.
+
+----------------------------------------------
+Records for Kaza (ng050f)
+----------------------------------------------
+ID#: ng050f
+Name: Kaza
+Charm of Nai's Glory
+Lava Female, Blue Eyes
+Double Horns, Silver Earrings
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kaliya
+Drawn: 05/28/05
+Price -- 40q
+
+----------------------------------------------
+Records for Akurei (eh85f)
+----------------------------------------------
+ID#: eh85f
+Name: Akurei
+Clan of Eorl's Honor
+Blue female, blue eyes
+Silver Points, Wolf Tail, Double Horns
+Stage: 1.1
+Additions: Double Horns
+Life Points: 105
+Strength: 30
+Speed: 35
+Intelligence: 40
+Cunning: 38
+Defense: 35
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Owner: Kaylia
+Redrawn: 06/24/04
+Notes: Double Horns allow Akurei to learn Gouge if she should find/buy the attack.

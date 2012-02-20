@@ -1,0 +1,35 @@
+Quis
+quissiequi@hotmail.com
+
+Quox: 220q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Telum (ng014m)
+----------------------------------------------
+ID#: ng014m
+Name: Telum
+Charm of Nai's Glory
+Light blue male with green stripes and violet eyes
+Double horns
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Quis
+Drawn: 06/04/04
+Notes: Double horns allow him to use drive if he should find/buy the attack.
+Starter Naisuk

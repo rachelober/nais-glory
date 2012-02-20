@@ -1,0 +1,17 @@
+Possible Familiars
+
+--Defense Familiars
+Armadillo -- Defense Switch -- opponent's defense decreases by 10% of original value; user's defense increases by 10% of original value (upgrade, 20%)
+Turtle -- Scatter Shell -- takes 30 Damage from opponent's next damaging attack (before defense is accounted for) (upgrade, takes 50 Damage from opponent's next damaging attack)
+
+--Strength Familiars
+D'rnay -- Peck -- user's next damaging attack +10 Damage (upgrade, +20 Damage)
+Jenisu -- Sly -- opponent's next damaging attack -10 Damage (upgrade, -20 Damage)
+
+--Speed Familiars
+Rabbit -- Dodge -- opponent's next damaging attack misses; non-damaging affects still active (upgrade, non-damaging affects have no effect)
+Whisper -- Vapor -- absorbs opponent's next attack (upgrade, once active, witholds two attacks absorbed and on third turn releases it back on opponent)
+
+--Intelligence Familiars
+Owl -- Wisdom -- allows user to attack twice on next turn (upgrade, prevents opponent from attacking on next turn as well)
+Serpent -- Foresight -- predicts opponent's next attack (forces user to pick opponent's next attack) (upgrade, takes 20 Damage away from next attack)

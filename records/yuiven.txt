@@ -1,0 +1,169 @@
+Yuiven
+reluctant_warrior@hotmail.com
+
+Quox: 75q
+
+Used Items
+----------------------------------------------
+Chomp Attack [Level 1] (Bastian)
+Drive Attack [Level 1] (Bastian)
+Tail Wag Attack [Level 1] (Bastian)
+
+Unused Items
+----------------------------------------------
+Element of Glory
+Glorious Battle Attack [Level 1]
+Strike Attack [Level 1]
+Tail Whip Attack [Level 2]
+Throw Attack [Level 2]
+
+----------------------------------------------
+Records for Bastian (ng019m)
+----------------------------------------------
+ID#: ng020m
+Name: Bastian
+Charm of Nai's Glory
+Slate Blue male with Light Pink markings, Mint Eyes
+Cyen Tail
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs) 
+Owner: Yuiven
+Drawn: 06/25/04
+Notes: Cyen tail allows him to use heavy tail weaponry and to learn Tail Whip 
+if he should find/buy the attack.
+Starter Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng020m
+Name: Bastian
+Charm of Nai's Glory
+Slate Blue male with Light Pink markings, Mint Eyes
+Cyen Tail
+Stage 1.0
+Life Points: 105
+Strength: 35
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs) 
+Owner: Yuiven
+Drawn: 06/25/04
+
+ID#: ng020m
+Name: Bastian
+Charm of Nai's Glory
+Slate Blue male with Light Pink markings, Mint Eyes
+Cyen Tail, Double Horns
+Stage 1.1
+Additions: Double Horns
+Life Points: 105
+Strength: 35
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Yuiven
+Redrawn: 12/17/04
+
+Stat Additions (01/26/05):
+ID#: ng020m
+Name: Bastian
+Charm of Nai's Glory
+Slate Blue male with Light Pink markings, Mint Eyes
+Cyen Tail, Double Horns
+Stage 1.1
+Life Points: 110
+Strength: 40
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Chomp -- 50 Damage
+Drive -- 60 Damage (augmented by Double Horns)
+Tail Wag -- takes 10 Damage away from your opponent's next attack; may only be used 3x per battle
+Owner: Yuiven
+Redrawn: 12/17/04
+
+Stat Additions (04/16/05):
+ID#: ng020m
+Name: Bastian
+Charm of Nai's Glory
+Slate Blue male with Light Pink markings, Mint Eyes
+Cyen Tail, Double Horns
+Stage 1.1
+Life Points: 115
+Strength: 40
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Chomp -- 50 Damage
+Drive -- 60 Damage (augmented by Double Horns)
+Tail Wag -- takes 10 Damage away from your opponent's next attack; may only be used 3x per battle
+Owner: Yuiven
+Redrawn: 12/17/04
+
+Stat Additions (08/07/05):
+ID#: ng020m
+Name: Bastian
+Charm of Nai's Glory
+Slate Blue male with Light Pink markings, Mint Eyes
+Cyen Tail, Double Horns
+Stage 1.1
+Life Points: 120
+Strength: 40
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Chomp -- 50 Damage
+Drive -- 60 Damage (augmented by Double Horns)
+Tail Wag -- takes 10 Damage away from your opponent's next attack; may only be used 3x per battle
+Owner: Yuiven
+Redrawn: 12/17/04
+
+----------------------------------------------
+Records for Din (ng021f)
+----------------------------------------------
+D#: ng021f
+Name: Din
+Charm of Nai's Glory
+Red Female with Red Swirls, Red Glowing Eyes
+Triforce of Power
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Din's Fire-- 45 Damage *Unique*
+Owner: Yuiven
+Drawn: 09/19/04
+Triforce Naisuk

@@ -1,0 +1,364 @@
+Astar
+astar@unicornfeathers.com
+
+Quox: Unlimited
+
+Used Items
+----------------------------------------------
+Beanie (001)
+Cosmos Element (Thalla)
+Cloud Element (Lus)
+Tusks (Thalla)
+
+Unused Items
+----------------------------------------------
+Blue Gem
+Claws
+Collar
+Element of Glory
+Element of Water
+Horn
+Liberty Spikes
+Scarf (Thalla)
+Silver Gem (2)
+White Gem (2)
+
+----------------------------------------------
+Records for Thalla (ng018f)
+----------------------------------------------
+ID#: ng018f
+Name: Thalla
+Charm of Nai's Glory
+Red female with blue markings, yellow eyes
+Nose Horn
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage 
+Owner: Astar
+Drawn: 06/20/04
+Notes: Nose Horn gives her the ability to learn Drive if she should find/buy the attack.
+Starter Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng018f
+Name: Thalla
+Charm of Nai's Glory
+Red female with blue markings, yellow eyes
+Nose Horn
+Stage 1.0
+Life Points: 105
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage 
+Owner: Astar
+Drawn: 06/20/04
+
+ID#: ng018f
+Name: Thalla
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Dark Red Female with Blue Markings, Yellow Eyes
+Nose Horn, Tusks
+Cosmos Elemental
+Stage 1.1
+Additions: Tusks, Element of Cosmos
+Life Points: 105
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 45 Damage (augmented by Tusks)
+Cosmos Attacks:
+Fifth Element -- 40 Damage
+Owner: Astar
+Redrawn: 01/30/05
+
+Stat Additions (04/16/05):
+ID#: ng018f
+Name: Thalla
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Dark Red Female with Blue Markings, Yellow Eyes
+Nose Horn, Tusks
+Cosmos Elemental
+Stage 1.1
+Additions: Tusks, Element of Cosmos
+Life Points: 120
+Strength: 45
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 45 Damage (augmented by Tusks)
+Cosmos Attacks:
+Fifth Element -- 40 Damage
+Owner: Astar
+Redrawn: 01/30/05
+
+----------------------------------------------
+Records for Aderracia (ng023f)
+----------------------------------------------
+ID#: ng023f
+Name: Aderracia
+Charm of Nai's Glory
+White Female with Light Blue Stripes, Baby Blue Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Previous Owner: Lakegazer
+Drawn: 07/28/04
+Starter Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng023f
+Name: Aderracia
+Charm of Nai's Glory
+White Female with Light Blue Stripes, Baby Blue Eyes
+Stage 1.0
+Life Points: 110
+Strength: 35
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Previous Owner: Lakegazer
+Drawn: 07/28/04
+
+Stat Additions (04/16/05):
+ID#: ng023f
+Name: Aderracia
+Charm of Nai's Glory
+White Female with Light Blue Stripes, Baby Blue Eyes
+Stage 1.0
+Life Points: 115
+Strength: 40
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Previous Owner: Lakegazer
+Drawn: 07/28/04
+
+----------------------------------------------
+Records for Keoie (ng026f)
+----------------------------------------------
+ID#: ng026f
+Name: Keoie
+Charm of Nai's Glory
+Green and Black Spotted Female, Silver Eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Resold: 01/17/05 -- 20q
+Previous Owner: Lauryn
+Drawn: 07/29/04
+
+ID#: ng026f
+Name: Keoie
+Charm of Nai's Glory
+Green and Black Spotted Female, Silver Eyes
+Silver and Blue Bubbles Tattoo
+Stage 1.1
+Additions: Silver and Blue Bubbles Tattoo
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Redrawn: 03/12/05
+
+ID#: ng026f
+Name: Keoie
+Charm of Nai's Glory
+Green and Black Spotted Female, Silver Eyes
+Silver and Blue Bubbles Tattoo, Long Tail, Back Spines
+Stage 1.2
+Additions: Long Tail, Back Spines
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 42 (Base: 35 + 20% from Back Spines)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Tail Whack -- 50 Damage
+Owner: Astar
+Redrawn: 04/11/05 by Astar
+
+Stat Additions (04/16/05):
+ID#: ng026f
+Name: Keoie
+Charm of Nai's Glory
+Green and Black Spotted Female, Silver Eyes
+Silver and Blue Bubbles Tattoo, Long Tail, Back Spines
+Stage 1.2
+Additions: Long Tail, Back Spines
+Life Points: 110
+Strength: 45
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 42 (Base: 35 + 20% from Back Spines)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Tail Whack -- 50 Damage
+Owner: Astar
+Redrawn: 04/11/05 by Astar
+
+----------------------------------------------
+Records for Xander (ng040m)
+----------------------------------------------
+ID#: ng040m
+Name: Alexander
+Charm of Nai's Glory
+Gold Male, Gold Eyes
+Bronze Snake Tattoo, Bronze Claws
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Drawn: 02/06/05
+Starter Naisuk
+
+ID#: ng040m
+Name: Xander
+Charm of Nai's Glory
+Gold Male, Gold Eyes
+Bronze Snake Tattoo, Bronze Claws, Back Plates, Mane
+Stage 1.1
+Additions: Back Plates, Mane
+Life: 100
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 44 (Base: 35 + 25% from Back Plates)
+Attacks:
+Bellow-- lowers opponents defense by 10% of the original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Redrawn: 04/11/05 by Astar
+
+----------------------------------------------
+Records for Ethoom (ng044m)
+----------------------------------------------
+ID#: ng044m
+Name: Ethoom
+Charm of Nai's Glory
+Black Male with White Cow Markings, Blue Eyes
+Ethoom Naisuk, Fluffy Coat
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 46 (Base: 40 + 15% from Fluffy Coat)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Drawn: 02/19/05
+Special Edition Inside Joke Ethoom
+
+Stat Additions (04/16/05):
+ID#: ng044m
+Name: Ethoom
+Charm of Nai's Glory
+Black Male with White Cow Markings, Blue Eyes
+Ethoom Naisuk, Fluffy Coat
+Stage 1.0
+Life Points: 105
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 46 (Base: 40 + 15% from Fluffy Coat)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Astar
+Drawn: 02/19/05
+Special Edition Inside Joke Ethoom
+
+----------------------------------------------
+Records for Lus y Lhiannan (is014f)
+----------------------------------------------
+ID#: is014f
+Name: Lus y Lhiannan
+Warren of Iern's Spirit
+Brown Lop-Eared Female with Blue Markings, Sky Blue Eyes
+Faerie Wings
+Cloud Elemental
+Stage 1.1
+Additions: Element of Cloud
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 25
+Cunning: 30
+Defense: 30
+Attacks:
+Shriek -- lowers opponent's Defense by 10% of original value each time used
+Snap -- 30 Damage
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Owner: Astar
+Redrawn: 02/04/05
+Notes: Element of Cloud gave Lus Faerie Wings.

@@ -1,0 +1,69 @@
+Ravyn
+midnight_october@hotmail.com
+
+Quox: 315q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Cheshire (ng046f)
+----------------------------------------------
+ID#: ng046f
+Name: Cheshire
+Charm of Nai's Glory
+White Female with Neon Green Stripes, Neon Green Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Ravyn
+Drawn: 03/23/05
+Starter Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng046f
+Name: Cheshire
+Charm of Nai's Glory
+White Female with Neon Green Stripes, Neon Green Eyes
+Stage 1.0
+Life Points: 105
+Strength: 30
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Ravyn
+Drawn: 03/23/05
+
+Stat Additions (08/07/05):
+ID#: ng046f
+Name: Cheshire
+Charm of Nai's Glory
+White Female with Neon Green Stripes, Neon Green Eyes
+Stage 1.0
+Life Points: 120
+Strength: 30
+Speed: 35
+Intelligence: 40
+Cunning: 38
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Ravyn
+Drawn: 03/23/05

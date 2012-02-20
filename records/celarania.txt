@@ -1,0 +1,60 @@
+Celarania
+celarania@hotmail.com
+
+Quox: 75q
+
+Used Items
+----------------------------------------------
+Razor Wings (Zelia)
+Strike Attack [Level 1] (Zelia)
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Zelia (ng002f)
+----------------------------------------------
+ID#: ng002f
+Name: Zelia
+Charm of Nai's Glory
+Bright pink female with light pink starburst marking and green eyes
+Party Hat
+Three pink stones
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Party Down -- 35 Damage *Special Attack*
+Owner: Celarania
+Drawn: 06/04/04
+Notes: Party Hat gives her the ability to learn horn attacks and augment any attack augmented by a horn.
+Birthday Present
+
+ID#: ng002f
+Name: Zelia
+Charm of Nai's Glory
+Bright pink female with light pink starburst marking and green eyes
+Party Hat, Razor Wings
+Three pink stones
+Stage 1.1
+Additions: Razor Wings, Strike Attack
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Party Down -- 35 Damage *Special Attack*
+Strike -- 35 Damage
+Owner: Celarania
+Redrawn: 06/18/04

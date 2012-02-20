@@ -1,0 +1,34 @@
+Draggy
+jengo.fet@zoominternet.net
+
+Quox: 105q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Epolai (ng048f)
+----------------------------------------------
+ID#: ng048f
+Name: Epolai
+Charm of Nai's Glory
+Green Female with Dark Red Markings, Hazel Eyes
+Claws
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Draggy
+Drawn: 04/08/05
+Starter Naisuk

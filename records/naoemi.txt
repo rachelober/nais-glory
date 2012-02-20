@@ -1,0 +1,55 @@
+Naoemi
+lissyiszy@aol.com
+
+Quox: 310q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+Ancient Luminous Blaze Attack
+Razor Wings
+
+----------------------------------------------
+Records for Lurae (ng041f)
+----------------------------------------------
+ID#: ng041f
+Name: Lurae
+Charm of Nai's Glory
+White female, red eyes
+Albino
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Naoemi
+Drawn: 02/06/05
+Starter Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng041f
+Name: Lurae
+Charm of Nai's Glory
+White female, red eyes
+Albino
+Stage 1.0
+Life Points: 110
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Naoemi
+Drawn: 02/06/05
+Starter Naisuk

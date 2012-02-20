@@ -1,0 +1,55 @@
+Tiz
+t2hue@aol.com
+
+Quox: 250q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+Frost Material
+NorthWest Key
+
+----------------------------------------------
+Records for Avaxia (ng039f)
+----------------------------------------------
+ID#: ng039f
+Name:Avaxia
+Charm of Nai's Glory
+Black Female with Sky Blue Stripes, Gray Eyes
+Fangs
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Owner: Tiz
+Drawn: 02/06/05
+Starter Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng039f
+Name:Avaxia
+Charm of Nai's Glory
+Black Female with Sky Blue Stripes, Gray Eyes
+Fangs
+Stage 1.0
+Life Points: 110
+Strength: 35
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Owner: Tiz
+Drawn: 02/06/05
+Starter Naisuk

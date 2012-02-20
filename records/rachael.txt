@@ -1,0 +1,74 @@
+Rachael
+halokrazimaniak@aol.com
+
+Quox: 430q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+Black Gem
+Element of Water
+Liberty Spikes
+
+----------------------------------------------
+Records for Fenn (ng047m)
+----------------------------------------------
+ID#: ng047m
+Name: Fenn
+Charm of Nai's Glory
+Black Male with Orange Markings, Dark Red Eyes
+Fire Band Tattoo
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 25
+Intelligence: 35
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Rachael
+Drawn: 03/24/05
+Starter Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng047m
+Name: Fenn
+Charm of Nai's Glory
+Black Male with Orange Markings, Dark Red Eyes
+Fire Band Tattoo
+Stage 1.0
+Life Points: 110
+Strength: 35
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Rachael
+Drawn: 03/24/05
+
+Stat Additions (08/07/05):
+ID#: ng047m
+Name: Fenn
+Charm of Nai's Glory
+Black Male with Orange Markings, Dark Red Eyes
+Fire Band Tattoo
+Stage 1.0
+Life Points: 125
+Strength: 35
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 45
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Rachael
+Drawn: 03/24/05

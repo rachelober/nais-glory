@@ -1,0 +1,110 @@
+Kitty
+ShatteredIDreamsz@aol.com
+
+Quox: 75q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+Element of Moon
+Neck Collar
+Razor Wings
+
+----------------------------------------------
+Records for Kieve (ng030m)
+----------------------------------------------
+ID#: ng030m
+Name: Kieve
+Charm of Nai's Glory
+Maroon Male with Black Stripes, Fire Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kitty
+Drawn: 09/26/04
+Starter Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng030m
+Name: Kieve
+Charm of Nai's Glory
+Maroon Male with Black Stripes, Fire Eyes
+Stage 1.0
+Life Points: 105
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kitty
+Drawn: 09/26/04
+
+ID#: ng030m
+Name: Kieve
+Charm of Nai's Glory
+Maroon Male with Black Stripes and Socks, Fire Eyes
+Stage 1.1
+Additions: Black Sock Markings
+Life Points: 105
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kitty
+Redrawn: 02/23/05 by Astar
+
+ID#: ng030m
+Name: Kieve
+Charm of Nai's Glory
+Maroon Male with Black Stripes and Socks, Fire Eyes
+Steel Wrist & Ankle Guards
+Stage 1.2
+Additions: Wrist & Ankle Guards
+Life Points: 105
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 39 (Base: 35 + 10% from Wrist & Ankle Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kitty
+Redrawn: 02/25/05 by Kit
+
+Stat Additions (04/16/05):
+ID#: ng030m
+Name: Kieve
+Charm of Nai's Glory
+Maroon Male with Black Stripes and Socks, Fire Eyes
+Steel Wrist & Ankle Guards
+Stage 1.2
+Additions: Wrist & Ankle Guards
+Life Points: 110
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 39 (Base: 35 + 10% from Wrist & Ankle Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kitty
+Redrawn: 02/25/05 by Kit

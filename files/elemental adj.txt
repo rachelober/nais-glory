@@ -1,0 +1,71 @@
+Adjustments for Death
+Cell: +30%
+Cloud: None (-0%)
+Cosmos: +15%
+Decay: -20%
+Flint: None (-0%)
+Glory: None (-0%)
+Gravity: None (-0%)
+Moon: None (-0%)
+Paranoia: None (-0%)
+Sun: None (-0%)
+
+Adjustments for Evil
+Cell: None (-0%)
+Cloud: None (-0%)
+Cosmos: None (-0%)
+Decay: None (-0%)
+Flint: None (-0%)
+Glory: -10%
+Gravity: None (-0%)
+Moon: None (-0%)
+Paranoia: None (-0%)
+Sun: None (-0%)
+
+Adjustments for Water
+Cell: None (-0%)
+Cloud: None (-0%)
+Cosmos: None (-0%)
+Decay: -10%
+Flint: +20%
+Glory: None (-0%)
+Gravity: None (-0%)
+Moon: -10%
+Paranoia: None (-0%)
+Sun: -15%
+
+Adjustments for Neutral
+Cell: None (-0%)
+Cloud: None (-0%)
+Cosmos: +10%
+Death: None (-0%)
+Decay: None (-0%)
+Evil: +20%
+Flint: None (-0%)
+Glory: +30%
+Gravity: None (-0%)
+Moon: None (-0%)
+Neutral: No Effect (-100%)
+Paranoia: None (-0%)
+Sun: None (-0%)
+Water: None (-0%)
+
+Caffeine: -0%
+Chaos: +20%
+Dark: None (-0%)
+Dark Fire: None (-0%)
+Earth: None (-0%)
+Electricity: None (-0%)
+Fire:  None (-0%)
+Good: +20%
+Honor: +30%
+Ice: None (-0%)
+Lava: None (-0%)
+Life: None (-0%)
+Light: None (-0%)
+Psychic: None (-0%)
+Slytherin: +20%
+Starlight: None (-0%)
+Steel: None (-0%)
+White Starlight: None (-0%)
+Wind: None (-0%)

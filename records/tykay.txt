@@ -1,0 +1,331 @@
+TyKay
+dragonlover87@hotmail.com
+
+Quox: 370q
+
+Used Items
+----------------------------------------------
+Amethyst Necklace *unique* (Nonukai)
+Blight Attack [Level 1] (Daiquiri)
+Cellular Wall Attack [Level 1] (Daiquiri)
+Contaminated Breath Attack [Level 1] (Daiquiri)
+Element of Cell (Daiquiri)
+Element of Decay (Daiquiri)
+Hidden Powder *unique* (Daiquiri)
+Immortal Potion (Daiquiri)
+Pattern Addition (Daiquiri)
+Putrefy Smash Attack [Level 2] (Daiquiri)
+
+Unused Items
+----------------------------------------------
+Body Spikes *unique*
+Bone Backspikes *unique*
+Carrot
+Element of Water
+Eye Color Addition
+Mint
+Tail Mutation
+Wood Sorrel
+
+Unique Items
+----------------------------------------------
+Amethyst Necklace
+Requirements: None
+Effect: Defense +10%, allows wearer to speak mind-speech, has unknown powers.
+Description: Amethyst gem on a silver chain, gives off an eerie glow.
+
+Body Spikes
+Requirements: Cell Elemental, Strength 45
+Effect: Roll Attack +15
+Description: Can be placed anywhere on body, made out of bone material and has spots of blood on the tips.
+
+Bone Backspikes
+Requirements: Strength 40
+Effect: Defense +35%
+
+Hidden Powder
+Requirements: None
+Effect: When used on a Naisuk, gives them a special power or attack.
+Description: A small wooden box found in a well, holds a fine powder in it.
+	
+----------------------------------------------
+Records for Daiquiri (ng006m)
+----------------------------------------------
+ID#: ng006m
+Name: Daiquiri
+Charm of Nai's Glory
+Light red male with rust socks, pink eyes
+Stage 1.0
+Life Points: 100
+Strength: 20
+Speed: 35
+Intelligence: 40
+Cunning: 38
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: TyKay
+Drawn: 05/20/04
+Starter Naisuk
+
+ID#: ng006m
+Name: Daiquiri
+Charm of Nai's Glory
+Light red male with rust socks and blood splatters, blue glowing eyes
+Blue Energy
+Stage 1.1
+Additions: Hidden Powder, Blood Splatter Pattern Addition
+Life Points: 100
+Strength: 20
+Speed: 35
+Intelligence: 50
+Cunning: 43
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: TyKay
+Redrawn: 06/18/04
+Notes: The hidden powder augmented Daiquiri's Intelligence and made him 
+develop blue energy around his front paws, made his eye glow blue and made 
+certain parts of his body where the Blood Splatter Pattern was added become 
+real blood. He loses blood but it does not affect his health. As he grows, he 
+can learn to attack with his blue energy. His mental state has become unstable 
+from his interaction with the powder.
+
+Stat Additions (11/19/04):
+ID#: ng006m
+Name: Daiquiri
+Charm of Nai's Glory
+Light red male with rust socks and blood splatters, blue glowing eyes
+Blue Energy
+Stage 1.1
+Additions: Hidden Powder, Blood Splatter Pattern Addition
+Life Points: 110
+Strength: 25
+Speed: 35
+Intelligence: 50
+Cunning: 43
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: TyKay
+Redrawn: 06/18/04
+
+Stat Additions (01/26/05):
+ID#: ng006m
+Name: Daiquiri
+Charm of Nai's Glory
+Light red male with rust socks and blood splatters, blue glowing eyes
+Blue Energy
+Stage 1.1
+Life Points: 115
+Strength: 25
+Speed: 35
+Intelligence: 50
+Cunning: 43
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: TyKay
+Redrawn: 06/18/04
+
+ID#: ng006m
+Name: Daiquiri
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Red Male with Blood Splatters and Gangrene, Blue Glowing Eyes
+Blue Energy, Immortal Aura
+"Undead" Elemental (Dual Cell and Decay Elemental)
+Stage 1.2
+Additions: Element of Cell, Element of Decay, Immortal Potion
+Life Points: 115
+Strength: 25
+Speed: 35
+Intelligence: 50
+Cunning: 43
+Defense: 44 (Base: 35 + 25% from Immortal Aura)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cell Attacks:
+Fission -- 40 Damage
+Decay Attacks:
+Decaying -- 40 Damage
+Undead Attacks:
+Necromancer's Touch -- opponent is paralyzed; opponent must flip a coin each turn (heads: cures paralysis, tails: still paralyzed)
+Owner: TyKay
+Redrawn: 02/04/05
+Notes: The mixture between the Element of Cell and the Element of Decay has caused Daiquiri to turn into the "Undead" Elemental and lose his original rust markings. The Element of Decay has torn apart much of his body, but with the help of the Element of Cell and the Immortal Potion, he was able to regain more movement than most Decay Elementals.
+The Immortal Potion mixed with his Blue Energy to create an extra defense shield around him called the Immortal Aura which added 25% to his defense. The Immortal Aura has helped him stabilize in his Decay Element, he will not deteriorate as fast as most Decay Elements.
+
+Stat Additions (04/16/05):
+ID#: ng006m
+Name: Daiquiri
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Red Male with Blood Splatters and Gangrene, Blue Glowing Eyes
+Blue Energy, Immortal Aura
+"Undead" Elemental (Dual Cell and Decay Elemental)
+Stage 1.2
+Additions: Element of Cell, Element of Decay, Immortal Potion, Cellular Wall Attack, Blight Attack, Putrefy Smash Attack, Contaminated Breath Attack
+Life Points: 130
+Strength: 35
+Speed: 40
+Intelligence: 50
+Cunning: 45
+Defense: 44 (Base: 35 + 25% from Immortal Aura)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cell Attacks:
+Fission -- 40 Damage
+Cellular Wall -- user's Defense increases by 10% of current value; may only be used 5x per battle
+Decay Attacks:
+Decaying -- 40 Damage
+Blight -- 55 Damage
+Putrefy Smash -- 60 Damage
+Contaminated Breath -- opponent's next attack misses
+Undead Attacks:
+Necromancer's Touch -- opponent is paralyzed; opponent must flip a coin each turn (heads: cures paralysis, tails: still paralyzed)
+Owner: TyKay
+Redrawn: 02/04/05
+
+Stat Additions (08/07/05):
+ID#: ng006m
+Name: Daiquiri
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Red Male with Blood Splatters and Gangrene, Blue Glowing Eyes
+Blue Energy, Immortal Aura
+"Undead" Elemental (Dual Cell and Decay Elemental)
+Stage 1.2
+Additions: Element of Cell, Element of Decay, Immortal Potion, Cellular Wall Attack, Blight Attack, Putrefy Smash Attack, Contaminated Breath Attack
+Life Points: 140
+Strength: 45
+Speed: 40
+Intelligence: 50
+Cunning: 45
+Defense: 50 (Base: 40 + 25% from Immortal Aura)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Cell Attacks:
+Fission -- 40 Damage
+Cellular Wall -- user's Defense increases by 10% of current value; may only be used 5x per battle
+Decay Attacks:
+Decaying -- 40 Damage
+Blight -- 55 Damage
+Putrefy Smash -- 60 Damage
+Contaminated Breath -- opponent's next attack misses
+Undead Attacks:
+Necromancer's Touch -- opponent is paralyzed; opponent must flip a coin each turn (heads: cures paralysis, tails: still paralyzed)
+Owner: TyKay
+Redrawn: 02/04/05
+
+----------------------------------------------
+Records for Marvin (ng042m)
+----------------------------------------------
+ID# ng042m
+Name: Marvin
+Charm of Nai's Glory
+Slate Male, Pale Blue Eyes
+Fangs, Thick Coat
+Stage 0.0
+Owner: TyKay
+Drawn: 04/04/05
+
+----------------------------------------------
+Records for Azriath (ng051m)
+----------------------------------------------
+ID#: ng051m
+Name: Azriath
+Charm of Nai's Glory
+Dry Sand Male, Gray Eyes
+Liberty Spikes, Gold Earrings
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35 (Base: 30 + 15% from Liberty Spikes)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: TyKay
+Drawn: 05/28/05
+Price -- 45q
+
+Stat Additions (08/07/05):
+ID#: ng051m
+Name: Azriath
+Charm of Nai's Glory
+Dry Sand Male, Gray Eyes
+Liberty Spikes, Gold Earrings
+Stage 1.0
+Life Points: 110
+Strength: 45
+Speed: 35
+Intelligence: 30
+Cunning: 30
+Defense: 40 (Base: 35 + 15% from Liberty Spikes)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: TyKay
+Drawn: 05/28/05
+
+----------------------------------------------
+Records for Nonukai (eh75f)
+----------------------------------------------
+ID#: eh75f
+Name: Nonukai
+Clan of Eorl's Honor
+Dark blue female, navy eyes
+Lion's Tail, Feathered Wings
+Amethyst Necklace
+Halloween Eorlan 2003
+Stage: 1.1
+Additions: Amethyst Necklace
+Life Points: 100
+Strength: 25
+Speed: 35
+Intelligence: 40
+Cunning: 38
+Defense: 30
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Night Swoop -- 40 Damage *unique attack*
+Owner: TyKay
+Redrawn: 06/19/04
+Notes: The Amethyst Necklace is a possessed object that has augmented Nonukai's 
+Intelligence. She also has started to hear voices in the wind but does not know 
+where these voices come from. As she grows, the necklace may give her more powers.
+
+----------------------------------------------
+Records for Bohemian (eh79f)
+----------------------------------------------
+ID#: eh79f
+Name: Bohemian
+Clan of Eorl's Honor
+Golden Brown female, brick red eyes
+Black Stripes, Tail Tufting, Black Hieroglyphic Tattoos
+Back Plates, Leg Bracers
+Stage: 1.2
+Additions: Black Hieroglyphic Tattoos
+Life Points: 130
+Strength: 45
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 74 (Base: 45 + 40% from Leg Bracers + 25% from Back Plates)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Owner: TyKay
+Redrawn: 04/03/05

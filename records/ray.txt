@@ -1,0 +1,93 @@
+Ray
+DokoKissu@aol.com
+
+Quox: 265q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+Element of Moon
+Luna
+Moon Crater
+
+----------------------------------------------
+Records for Novalice (ng027f)
+----------------------------------------------
+ID#: ng027f
+Name: Novalice
+Charm of Nai's Glory
+Dark Red Female with Orange Spots, Green Eyes
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 25
+Intelligence: 30
+Cunning: 28
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Ray
+Drawn: 07/29/04
+Starter Naisuk
+
+Stat Additions (11/09/04):
+ID#: ng027f
+Name: Novalice
+Charm of Nai's Glory
+Dark Red Female with Orange Spots, Green Eyes
+Stage 1.0
+Life Points: 105
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Ray
+Drawn: 07/29/04
+
+Stat Additions (01/26/05):
+ID#: ng027f
+Name: Novalice
+Charm of Nai's Glory
+Dark Red Female with Orange Spots, Green Eyes
+Stage 1.0
+Life Points: 110
+Strength: 40
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Ray
+Drawn: 07/29/04
+
+----------------------------------------------
+Records for Lianala (ng032f)
+----------------------------------------------
+ID#: ng032f
+Name: Lianala
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Light Pink Female with Grey Spots, Maroon Eyes
+Stage 2.0
+Life Points: 150
+Strength: 60
+Speed: 50
+Intelligence: 50
+Cunning: 50
+Defense: 55
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Chomp -- 50 Damage
+Owner: Ray
+Drawn: 01/17/05

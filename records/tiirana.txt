@@ -1,0 +1,135 @@
+Tiirana
+lizzien@twcny.rr.com
+
+Quox: 380q
+
+Used Items
+----------------------------------------------
+Chomp Attack [Level 1] (Niiro-Moya)
+Element of Moon (Niiro-Moya)
+Fangs (Niiro-Moya)
+Neon-Green Back Spikes *unique* (Niiro-Moya)
+
+Unused Items
+----------------------------------------------
+None
+
+Unique Items
+----------------------------------------------
+Neon-Green Back Spikes
+Requirements: Strength 40
+Effect: Defense +35%
+
+----------------------------------------------
+Records for Niiro-Moya (ng031f)
+----------------------------------------------
+ID#: ng031f
+Name: Niiro-Moya
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Ruby Female with Neon Green Face Markings, Mint Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Tiirana
+Drawn: 01/05/05
+Starter Naisuk
+
+ID#: ng031f
+Name: Niiro-Moya
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Ruby Female with Neon Green Face Markings, Mint Eyes
+Neon Flame Tattoos
+Stage 1.1
+Additions: Neon Flame Tattoos
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Tiirana
+Redrawn: 04/03/05
+
+Stat Additions (04/16/05):
+ID#: ng031f
+Name: Niiro-Moya
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Ruby Female with Neon Green Face Markings, Mint Eyes
+Neon Flame Tattoos
+Stage 1.1
+Additions: Neon Flame Tattoos
+Life Points: 110
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Tiirana
+Redrawn: 04/03/05
+
+ID#: ng031f
+Name: Niiro-Moya
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Ruby Female with Neon Green Face Markings, Mint Eyes
+Neon Flame Tattoos, Fangs, Neon-Green Back Spikes
+Moon Elemental
+Stage 1.2
+Additions: Fangs, Neon-Green Back Spikes, Chomp Attack, Element of Moon
+Life Points: 110
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 47 (Base: 35 + 35% from Neon-Green Back Spikes)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Chomp -- 55 Damage (augmented by Fangs)
+Moon Attacks:
+Lunar Eclipse -- 40 Damage; augmented to 45 if nighttime
+Owner: Tiirana
+Redrawn: 07/20/05
+Notes: Niiro-Moya's Neon-Green Back Spikes are charged with Moon Energy. She also developed star markings all over her body. Her neon-green markings glow eerily.
+
+Stat Additions (08/07/05):
+ID#: ng031f
+Name: Niiro-Moya
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Ruby Female with Neon Green Face Markings, Mint Eyes
+Neon Flame Tattoos, Fangs, Neon-Green Back Spikes
+Moon Elemental
+Stage 1.2
+Additions: Fangs, Neon-Green Back Spikes, Chomp Attack, Element of Moon
+Life Points: 120
+Strength: 40
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 54 (Base: 40 + 35% from Neon-Green Back Spikes)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Chomp -- 55 Damage (augmented by Fangs)
+Moon Attacks:
+Lunar Eclipse -- 40 Damage; augmented to 45 if nighttime
+Owner: Tiirana
+Redrawn: 07/20/05
+Notes: Niiro-Moya's Neon-Green Back Spikes are charged with Moon Energy. She also developed star markings all over her body. Her neon-green markings glow eerily.

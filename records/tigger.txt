@@ -1,0 +1,34 @@
+Tigger
+cici1993@wowway.com
+
+Quox: 105q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Flame (ng017f)
+----------------------------------------------
+ID#: ng017f
+Name: Flame
+Charm of Nai's Glory
+Orange female with fire points and smoke markings, smoke eyes
+Fangs
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Owner: Tigger
+Drawn: 06/18/04
+Starter Naisuk

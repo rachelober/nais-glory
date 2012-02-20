@@ -1,0 +1,90 @@
+Phoenyx Fyre
+phoenyxfyre2002@yahoo.com
+
+Quox: 235q
+
+Used Items
+----------------------------------------------
+Marking Addition (Rufus)
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Rufus (ng036m)
+----------------------------------------------
+ID#: ng036m
+Name: Rufus
+Charm of Nai's Glory
+Purple Male with Black Spots and Green Markings, Green Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Phoenyx Fyre
+Drawn: 01/17/05
+Starter Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng036m
+Name: Rufus
+Charm of Nai's Glory
+Purple Male with Black Spots and Green Markings, Green Eyes
+Stage 1.0
+Life Points: 115
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 45
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Phoenyx Fyre
+Drawn: 01/17/05
+Starter Naisuk
+
+ID#: ng036m
+Name: Rufus
+Charm of Nai's Glory
+Purple Male with Black Spots and Green Markings, Green Eyes
+Stage 1.1
+Additions: Green Marking Addition
+Life Points: 115
+Strength: 30
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 45
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Phoenyx Fyre
+Redrawn: 07/20/05
+
+**Inconsistency**
+Stat Additions (08/07/05):
+ID#: ng036m
+Name: Rufus
+Charm of Nai's Glory
+Purple Male with Black Spots and Green Markings, Green Eyes
+Stage 1.1
+Additions: Green Marking Addition
+Life Points: 125
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 45
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Phoenyx Fyre
+Redrawn: 07/20/05

@@ -1,0 +1,133 @@
+Reptile Girl
+repgirl_2001@yahoo.com
+
+Quox: 295q
+
+Used Items
+----------------------------------------------
+Blue Gem (Ookami)
+Double Horns (Ookami)
+Element of Sun (Spark)
+Green Gem (2) (Spark)
+Silver Paw Cuffs *unique* (Spark)
+Solar Eclipse Attack [Level 1] (Spark)
+
+Unused Items
+----------------------------------------------
+Dayflower (2)
+Double Horns
+Eldorian Crystal
+Ivy (2)
+Olive Branch
+Garlic
+Snarl Attack [Level 2]
+Sun Crest *unique*
+Turtle Egg
+Wood Sorrel
+
+Unique Items
+----------------------------------------------
+Silver Paw Cuffs
+Requirements: None
+Effect: Defense +5%
+Description: Two silver bands that fit around the wrists of a Naisuk.
+
+Sun Crest
+Requirements: Sun Elemental, Strength 50
+Effect: Sun Elemental Attacks +20%, Defense +20%
+Description: Gold helmut with golden feathers sprouting from the back. Sun gems are embedded in the feathers and the edge of the helmut.
+
+----------------------------------------------
+Records for Spark (ng005m)
+----------------------------------------------
+ID#: ng005m
+Name: Spark
+Charm of Nai's Glory
+Purple male with gold markings
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 25
+Intelligence: 30
+Cunning: 28
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: ReptileGirl
+Drawn: 05/20/04
+Starter Naisuk 
+
+ID#: ng005m
+Name: Spark
+Charm of Nai's Glory
+Purple male with gold markings
+Sun Backspikes, Silver Paw Cuffs, Two Green Stones
+Sun Elemental
+Stage 1.1
+Additions: Element of Sun, Solar Eclipse Attack, Silver Paw Cuffs
+Life Points: 100
+Strength: 40
+Speed: 25
+Intelligence: 30
+Cunning: 28
+Defense: 41 (Base: 30 + 30% from Sun Backspikes + 5% from Silver Paw Cuffs)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Sun Attacks:
+Sunlight -- Damage 40; augmented to 45 if daytime
+Solar Eclipse -- opponent's next attack misses
+Owner: ReptileGirl
+Redrawn: 06/25/04
+Notes: Sun Crest could not be added to Spark because he did not 
+have high enough strength. The Element of Sun caused Spark to grow Sun Backspikes.
+
+Stat Additions (11/09/04):
+ID#: ng005m
+Name: Spark
+Charm of Nai's Glory
+Purple male with gold markings
+Sun Backspikes, Silver Paw Cuffs, Two Green Stones
+Sun Elemental
+Stage 1.1
+Additions: Element of Sun, Solar Eclipse Attack, Silver Paw Cuffs
+Life Points: 110
+Strength: 45
+Speed: 25
+Intelligence: 30
+Cunning: 28
+Defense: 41 (Base: 30 + 30% from Sun Backspikes + 5% from Silver Paw Cuffs)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Sun Attacks:
+Sunlight -- Damage 40; augmented to 45 if daytime
+Solar Eclipse -- opponent's next attack misses
+Owner: ReptileGirl
+Redrawn: 06/25/04
+
+----------------------------------------------
+Records for Ookami (eh22m)
+----------------------------------------------
+ID#: eh22m
+Name: Ookami
+Clan of Eorl's Honor
+Gray male, yellow eyes
+Shaggy Coat, Wolf Tail, Feathered Ears
+Back Spines, Obsidian Fangs, Obsidian Double Horns, Blue Stone
+Halloween Eorlan
+Stage: 1.2
+Additions: Obsidian Double Horns, Blue Stone
+Life Points: 115
+Strength: 45
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 42 (Base: 35 + 20% from Back Spines)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 40 Damage (augmented by Fangs)
+Bite -- 55 Damage (augmented by Fangs)
+Owner: Reptile Girl
+Redrawn: 06/25/04

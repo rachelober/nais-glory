@@ -1,0 +1,423 @@
+Amaryllis
+dracogrex@hotmail.com
+
+Quox: 495q
+
+Used Items
+----------------------------------------------
+Element of Moon (Sable)
+Element of Paranoia (Jaxon)
+Eye Color Change (Noralari)
+Paw Guards (Jaxon)
+
+Unused Items
+----------------------------------------------
+Backstab Attack [Level 1]
+Element of Decay
+Marking Addition (2)
+Olive Branch
+Putrefy Smash Attack [Level 1]
+Satellite Crash Attack [Level 2]
+Tail Spikes
+Tusks
+
+----------------------------------------------
+Records for Jaxon (ng015m)
+----------------------------------------------
+ID#: ng015m
+Name: Jaxon
+Charm of Nai's Glory
+Bright purple male with red and white markings and fire eyes
+Back thorns
+Long Tail
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30 
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Throw Back -- 40 Damage *Unique*
+Owner: Amaryllis
+Drawn: 06/04/04
+Notes: Back thorns augment his roll attack if he should find/buy the attack. Long 
+tail allows him to use heavy tail weaponry.
+Starter Naisuk
+
+ID#: ng015m
+Name: Jaxon
+Charm of Nai's Glory
+Bright purple male with red and white markings and fire eyes
+Back thorns, Paw Guards
+Long Tail
+Paranoia Elemental
+Stage 1.1
+Additions: Element of Paranoia, Paw Guards
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 42 (Base: 40 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Throw Back -- 40 Damage *Unique*
+Paranoia Attacks:
+Bizarre -- 40 Damage
+Owner: Amaryllis
+Redrawn: 06/19/04
+Notes: Element of Paranoia heightened Jaxon's defense as well as gave him a spiky coat and 
+glowing green eyes. His Elemental Symbol is on his right shoulder.
+
+Stat Additions (11/19/04):
+ID#: ng015m
+Name: Jaxon
+Charm of Nai's Glory
+Bright purple male with red and white markings and fire eyes
+Back thorns, Paw Guards
+Long Tail
+Paranoia Elemental
+Stage 1.1
+Additions: Element of Paranoia, Paw Guards
+Life Points: 110
+Strength: 50
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 42 (Base: 40 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Throw Back -- 40 Damage *Unique*
+Paranoia Attacks:
+Bizarre -- 40 Damage
+Owner: Amaryllis
+Redrawn: 06/19/04
+
+Stat Additions (01/26/05):
+ID#: ng015m
+Name: Jaxon
+Charm of Nai's Glory
+Bright purple male with red and white markings and fire eyes
+Back thorns, Paw Guards
+Long Tail
+Paranoia Elemental
+Stage 1.1
+Additions: Element of Paranoia, Paw Guards
+Life Points: 115
+Strength: 50
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 42 (Base: 40 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Throw Back -- 40 Damage *Unique*
+Paranoia Attacks:
+Bizarre -- 40 Damage
+Owner: Amaryllis
+Redrawn: 06/19/04
+
+Stat Additions (04/16/05):
+ID#: ng015m
+Name: Jaxon
+Charm of Nai's Glory
+Bright purple male with red and white markings and fire eyes
+Back thorns, Paw Guards
+Long Tail
+Paranoia Elemental
+Stage 1.1
+Additions: Element of Paranoia, Paw Guards
+Life Points: 125
+Strength: 50
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 53 (Base: 50 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Throw Back -- 40 Damage *Unique*
+Paranoia Attacks:
+Bizarre -- 40 Damage
+Owner: Amaryllis
+Redrawn: 06/19/04
+
+ID#: ng015m
+Name: Jaxon
+Charm of Nai's Glory
+Bright purple male with red and white markings and fire eyes
+Back thorns, Paw Guards, Tail Spikes
+Long Tail
+Paranoia Elemental
+Stage 1.2
+Additions: Tail Spikes
+Life Points: 125
+Strength: 50
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 53 (Base: 50 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Throw Back -- 40 Damage *Unique*
+Paranoia Attacks:
+Bizarre -- 40 Damage
+Owner: Amaryllis
+Redrawn: 07/20/05
+Note: Jaxon's Speed wasn't high enough to learn Back Stab.
+
+Stat Additions (08/07/05):
+ID#: ng015m
+Name: Jaxon
+Charm of Nai's Glory
+Bright purple male with red and white markings and fire eyes
+Back thorns, Paw Guards, Tail Spikes
+Long Tail
+Paranoia Elemental
+Stage 1.2
+Additions: Tail Spikes
+Life Points: 135
+Strength: 55
+Speed: 50
+Intelligence: 30
+Cunning: 40
+Defense: 53 (Base: 50 + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Throw Back -- 40 Damage *Unique*
+Paranoia Attacks:
+Bizarre -- 40 Damage
+Owner: Amaryllis
+Redrawn: 07/20/05
+Note: Jaxon's Speed wasn't high enough to learn Back Stab.
+
+----------------------------------------------
+Records for Arcana (ng022m)
+----------------------------------------------
+ID#: ng022m
+Name: Arcana
+Charm of Nai's Glory
+Blue Slate Male with Black Spots, Blue Eyes
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 25
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Amaryllis
+Resold: 01/17/05 -- 20q
+Previous Owner: Dark Willow
+Drawn: 07/28/04
+
+ID#: ng022m
+Name: Arcana
+Charm of Nai's Glory
+Blue Slate Male with Black Spots, Blue Eyes
+BLue Mane
+Stage 1.1
+Additions: Blue Mane
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 25
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Amaryllis
+Redrawn: 03/12/05 by Astar
+Notes: Random mutation gave him a mane.
+
+Stat Additions (08/07/05):
+ID#: ng022m
+Name: Arcana
+Charm of Nai's Glory
+Blue Slate Male with Black Spots, Blue Eyes
+BLue Mane
+Stage 1.1
+Additions: Blue Mane
+Life Points: 105
+Strength: 40
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Amaryllis
+Redrawn: 03/12/05 by Astar
+Notes: Random mutation gave him a mane.
+
+----------------------------------------------
+Records for Nayru (ng029f)
+----------------------------------------------
+ID#: ng029f
+Name: Nayru
+Charm of Nai's Glory
+Blue Female with Purple Striping, Blue Glowing Eyes
+Triforce of Wisdom
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Nayru's Love -- 45 Damage *Unique*
+Owner: Amaryllis
+Drawn: 09/19/04
+Triforce Naisuk
+
+Stat Additions (01/26/05):
+ID#: ng029f
+Name: Nayru
+Charm of Nai's Glory
+Blue Female with Purple Striping, Blue Glowing Eyes
+Triforce of Wisdom
+Stage 1.0
+Life Points: 105
+Strength: 30
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Nayru's Love -- 45 Damage *Unique*
+Owner: Amaryllis
+Drawn: 09/19/04
+Triforce Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng029f
+Name: Nayru
+Charm of Nai's Glory
+Blue Female with Purple Striping, Blue Glowing Eyes
+Triforce of Wisdom
+Stage 1.0
+Life Points: 110
+Strength: 35
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Nayru's Love -- 45 Damage *Unique*
+Owner: Amaryllis
+Drawn: 09/19/04
+Triforce Naisuk
+
+Stat Additions (08/07/05):
+ID#: ng029f
+Name: Nayru
+Charm of Nai's Glory
+Blue Female with Purple Striping, Blue Glowing Eyes
+Triforce of Wisdom
+Stage 1.0
+Life Points: 115
+Strength: 35
+Speed: 35
+Intelligence: 40
+Cunning: 38
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Nayru's Love -- 45 Damage *Unique*
+Owner: Amaryllis
+Drawn: 09/19/04
+Triforce Naisuk
+
+----------------------------------------------
+Records for Sable (eh08m)
+----------------------------------------------
+ID#: eh08m
+Name: Sable
+Clan of Eorl's Honor
+Tribe of Crystal Cove
+Dark chocolate male, glowing brown eyes
+Back Spines, Claws, Scorpion Tail
+Dual Starlight-Moon Elemental
+Stage: 2.1
+Additions: Element of Moon
+Life Points: 205
+Strength: 70
+Speed: 60
+Intelligence: 65
+Cunning: 63
+Defense: 72 (Base: 60 + 20% from Back Spines)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Tackle -- 40 Damage
+Starlight Attacks:
+Star Toss -- 40 Damage
+Comet Slash -- 50 Damage
+Moon Attacks:
+Lunar Eclipse -- 40 Damage; augmented to 45 if nighttime
+Owner: Amaryllis
+Redrawn: 02/06/05
+Notes: The Element of Moon interacted with Sable's Back Spines and gave it Moon Energy.
+
+----------------------------------------------
+Records for Kilani (eh83f)
+----------------------------------------------
+ID#: eh83f
+Name: Kilani
+Clan of Eorl's Honor
+Lavender female, light blue eyes
+Shaggy Coat, White Markings, Blue Fire Tattoo
+Stage: 1.2
+Additions: Blue Fire Tattoo
+Life Points: 150
+Strength: 40
+Speed: 45
+Intelligence: 40
+Cunning: 43
+Defense: 50
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Owner: Amaryllis
+Redrawn: 03/12/05
+
+----------------------------------------------
+Records for Noralari (is020f)
+----------------------------------------------
+ID#: is020f
+Name: Noralari
+Warren of Iern's Spirit
+Chrome Snowshoe Female, Ice Blue Eyes
+Stage 1.1
+Additions: Ice Blue Eye Color Change
+Life: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Shriek -- lowers opponent's Defense by 10% of original value each time used
+Snap -- 30 Damage
+Owner: Amaryllis
+Redrawn: 02/06/05

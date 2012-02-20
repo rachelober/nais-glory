@@ -1,0 +1,58 @@
+Genesis
+twmo@sabinenet.com
+
+Quox: 240q
+
+Used Items
+----------------------------------------------
+Element of Moon (Trodai)
+Drive Attack [Level 1] (Trodai)
+Horn (Trodai)
+
+Unused Items
+----------------------------------------------
+Fangs
+
+----------------------------------------------
+Records for Trodaí (ng033m)
+----------------------------------------------
+ID#: ng033m
+Name: Trodaí
+Charm of Nai's Glory
+Black Male with Purple Markings, Violet Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Genesis
+Drawn: 01/17/05
+Starter Naisuk
+
+ID#: ng033m
+Name: Trodaí
+Charm of Nai's Glory
+Black Male with Purple and White Markings, Glowing Violet Eyes
+Nose Horn
+Moon Elemental
+Stage 1.1
+Additions: Drive Attack, Element of Moon, Nose Horn
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Drive -- 50 Damage (augmented by Horn on nose)
+Moon Attacks:
+Lunar Eclipse -- 40 Damage; augmented to 45 if nighttime
+Owner: Genesis
+Redrawn: 02/04/05

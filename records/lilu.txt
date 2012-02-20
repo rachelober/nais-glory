@@ -1,0 +1,391 @@
+lilu
+socialwhore@mindless.com
+
+Quox: 235q
+
+Used Items
+----------------------------------------------
+Claws (2) (Aris, Chanda)
+Drive Attack [Level 1]  (Phoebe)
+Element of Cloud (Chanda)
+Element of Glory (Phoebe)
+Element of Moon (Aris)
+Fangs (Phoebe)
+Helmet (Chanda)
+Marking Addition (2)(Aris, Phoebe)
+Moon Reflection Potion (Aris)
+Night Spikes *unique* (Aris)
+Pearl Earrings *unique* (Pheobe)
+Silver Horn *unique* (Pheobe)
+Strike Attack [Level 1] (Aris)
+Studded Leather Collar *unique* (Phoebe)
+
+Unused Items
+----------------------------------------------
+Billow and Brume Attack [Level 1]
+Carrot
+Coat Mutation
+Ear Mutation
+Element of Water
+Eye Color Addition
+Green Gem
+Gold Gem (2)
+Luna Attack [Level 2]
+Moon Crater Attack [Level 1]
+Red Gem
+Reflection Attack [Level 1]
+Tail Mutation
+
+Unique Items
+----------------------------------------------
+Night Spikes
+Requirements: Moon Elemental, Strength 40
+Effect: Adds heavy weaponry to a long tail.
+Description: Extremely sharp tail spikes that can be placed anywhere along the tail.
+
+Pearl Earrings
+Requirements: None
+Effect: Added as jewelry
+Description: Small blue-ish pearl earring on silver chain
+
+Silver Horn
+Requirements: Strength 30, Speed: 30
+Effect: Increases Drive Attack to 50 Damage if on head.
+Description: A silver horn that can be placed anywhere on the body.
+
+Studded Leather Collar
+Requirements: Strength 15
+Effect: Defense +5%
+Description: Studded leather collar with a silver ring hanging on the front.
+
+----------------------------------------------
+Records for Phoebe (ng012f)
+----------------------------------------------
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sunny female with green hairtufts and mane
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Lilu
+Drawn: 05/21/04
+Starter Naisuk
+
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sunny female with green hairtufts and mane
+Silver Horn, Pearl Earrings
+Stage 1.1
+Additions: Pearl Earrings, Silver Horn
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Lilu
+Redrawn: 06/25/04
+
+Stat Additions (11/19/04):
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sunny female with green hairtufts and mane
+Silver Horn, Pearl Earrings
+Stage 1.1
+Additions: Pearl Earrings, Silver Horn
+Life Points: 115
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 35
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Lilu
+Redrawn: 06/25/04
+
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sunny female with green hairtufts and mane
+Silver Horn, Pearl Earrings, Leather Paw Guards
+Stage 1.2
+Additions: Leather Paw Guards
+Life Points: 115
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 35
+Defense: 32 (Base: 30 + 5% from Leather Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Lilu
+Redrawn: 12/16/04
+
+Stat Additions (01/26/05):
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sunny female with green hairtufts and mane
+Silver Horn, Pearl Earrings, Leather Paw Guards
+Stage 1.2
+Additions: Leather Paw Guards
+Life Points: 125
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 32 (Base: 30 + 5% from Leather Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Lilu
+Redrawn: 12/16/04
+
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Sunny Female with Green Hair Tufts and Mane and Black Appaloosa Spots, Gray Eyes
+Silver Horn, Pearl Earrings, Leather Paw Guards, Fangs
+Stage 2.0
+Additions: Fangs, Black Appaloosa Spots
+Life Points: 175
+Strength: 55
+Speed: 60
+Intelligence: 55
+Cunning: 58
+Defense: 53 (Base: 50 + 5% from Leather Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Drive -- 50 Damage (augmented by Horn)
+Owner: Lilu
+Redrawn: 01/30/05
+
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Sunny Female with Green Hair Tufts and Mane and Black Appaloosa Spots, Gray Eyes
+Silver Horn, Pearl Earrings, Leather Paw Guards, Fangs, Rose Tattoo, Broken Hearts Tattoo
+Stage 2.1
+Additions: Rose Tattoo, Broken Hearts Tattoo
+Life Points: 175
+Strength: 55
+Speed: 60
+Intelligence: 55
+Cunning: 58
+Defense: 53 (Base: 50 + 5% from Leather Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Drive -- 50 Damage (augmented by Horn)
+Owner: Lilu
+Redrawn: 03/12/05
+
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Sunny Female with Green Hair Tufts and Mane and Black Appaloosa Spots, Gray Eyes
+Silver Horn, Pearl Earrings, Leather Paw Guards, Fangs, Rose Tattoo, Broken Hearts Tattoo
+Red Boa Hair Tufts, Black Foot Tuft Streaks
+Stage 2.2
+Additions: Red Boa Hair Tufts, Black Foot Tuft Streaks
+Life Points: 175
+Strength: 55
+Speed: 60
+Intelligence: 55
+Cunning: 58
+Defense: 53 (Base: 50 + 5% from Leather Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Drive -- 50 Damage (augmented by Horn)
+Owner: Lilu
+Redrawn: 04/11/05 by Astar
+
+Stat Additions (04/16/05):
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Sunny Female with Green Hair Tufts and Mane and Black Appaloosa Spots, Gray Eyes
+Silver Horn, Pearl Earrings, Leather Paw Guards, Fangs, Rose Tattoo, Broken Hearts Tattoo
+Red Boa Hair Tufts, Black Foot Tuft Streaks
+Stage 2.2
+Additions: Red Boa Hair Tufts, Black Foot Tuft Streaks
+Life Points: 185
+Strength: 65
+Speed: 60
+Intelligence: 55
+Cunning: 58
+Defense: 58 (Base: 55 + 5% from Leather Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Drive -- 50 Damage (augmented by Horn)
+Owner: Lilu
+Redrawn: 04/11/05 by Astar
+
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Sunny Female with Green Hair Tufts and Mane and Black Appaloosa Spots, Gray Eyes
+Silver Horn, Pearl Earrings, Leather Paw Guards, Fangs, Rose Tattoo, Broken Hearts Tattoo
+Red Boa Hair Tufts, Black Foot Tuft Streaks, Studded Leather Collar
+Glory Elemental
+Stage 2.3
+Additions: Studded Leather Collar, Element of Glory
+Life Points: 185
+Strength: 65
+Speed: 70
+Intelligence: 55
+Cunning: 63
+Defense: 61 (Base: 55 + 5% from Leather Paw Guards + 5% from Studded Leather Collar)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Drive -- 50 Damage (augmented by Horn)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Lilu
+Redrawn: 07/20/05
+Notes: Element of Glory heightened her speed and added silver gems on body and a set of silver claws on her paws.
+
+Stat Additions (08/07/05):
+ID#: ng012f
+Name: Phoebe
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Sunny Female with Green Hair Tufts and Mane and Black Appaloosa Spots, Gray Eyes
+Silver Horn, Pearl Earrings, Leather Paw Guards, Fangs, Rose Tattoo, Broken Hearts Tattoo
+Red Boa Hair Tufts, Black Foot Tuft Streaks, Studded Leather Collar
+Glory Elemental
+Stage 2.3
+Additions: Studded Leather Collar, Element of Glory
+Life Points: 190
+Strength: 65
+Speed: 70
+Intelligence: 55
+Cunning: 63
+Defense: 66 (Base: 60 + 5% from Leather Paw Guards + 5% from Studded Leather Collar)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Drive -- 50 Damage (augmented by Horn)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Lilu
+Redrawn: 07/20/05
+Notes: Element of Glory heightened her speed and added silver gems on body and a set of silver claws on her paws.
+
+----------------------------------------------
+Records for Noam (ng043m)
+----------------------------------------------
+ID# ng043m
+Name: Noam
+Charm of Nai's Glory
+White Male, Light Blue Eyes
+Gold Horn
+Stage 0.0
+Owner: Lilu
+Drawn: 04/04/05
+Notes: Born to Sleuth of Quiet Snow
+
+----------------------------------------------
+Records for Aris (eh31f)
+----------------------------------------------
+ID#: eh31f
+Name: Aris
+Clan of Eorl's Honor
+Halloween Eorlan
+Teal-black female, glowing violet eyes
+Purple Points, Purple Neck Mane, Moon Wings, Backspikes, Back Leg Spikes, Night Spikes
+Unique Pendant
+Stage: 1.1
+Additions: Element of Moon, Moon Reflection Potion, Night Spikes
+Life Points: 100
+Strength: 40
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 33 (Base: 30 + 10% from Unique Pendant + 30% from Backspikes)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Moon Attacks:
+Lunar Eclipse -- Damage 40; augmented to 45 if nighttime
+Mirror Reflection -- Any damage received from opponent's last turn is thrown back at them *Unique Attack*
+Owner: Lilu
+Redrawn: 06/25/04
+Notes: Moon Reflection Potion gave Aris Backspikes and Back Leg Spikes as well as a new ability. 
+Back Leg Spikes allow Aris to use Gouge if she should find/buy the attack.
+
+ID#: eh31f
+Name: Aris
+Clan of Eorl's Honor
+Halloween Eorlan
+Teal-black female, glowing violet eyes
+Purple Points, Purple Neck Mane, Moon Wings, Back Spikes, Back Leg Spikes, Night Spikes
+Unique Pendant, Claws
+Moon Elemental
+Stage: 1.2
+Additions: Claws, White Marking Addition, Strike Attack
+Life Points: 100
+Strength: 40
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 33 (Base: 30 + 10% from Unique Pendant + 30% from Back Spikes)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 30 Damage
+Strike -- 40 Damage (augmented by Claws)
+Moon Attacks:
+Lunar Eclipse -- Damage 40; augmented to 45 if nighttime
+Mirror Reflection -- Any damage received from opponent's last turn is thrown back at them *Unique Attack*
+Owner: Lilu
+Redrawn: 02/03/05
+
+----------------------------------------------
+Records for Chanda (tf010f)
+----------------------------------------------
+ID#: tf010f
+Name: Chanda
+Pride of Tyr's Fury
+Black female, bronze eyes
+Pink markings, Feathered Wings
+Stage 1.1
+Additions: Element of Cloud, Claws, Steel Helmut
+Life Points: 115
+Strength: 30
+Speed: 35
+Intelligence: 40
+Cunning: 38
+Defense: 33 (Base: 30 + 10% from Steel Helmut)
+Attacks:
+Snap -- 30 Damage
+Hiss -- lowers opponent's Defense by 10% of original value each time used
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Owner: Lilu
+Redrawn: 02/03/05
+Notes: Chanda's Cloud Elemental symbol is on her right shoulder.

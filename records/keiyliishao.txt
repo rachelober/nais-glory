@@ -1,0 +1,74 @@
+Keiylii Shao
+keiylii_shao@hotmail.com
+
+Quox: 325q
+
+Used Items
+----------------------------------------------
+Strike Attack [Level 1] (Cinca)
+
+Unused Items
+----------------------------------------------
+Garlic
+Paw Mutation
+
+----------------------------------------------
+Records for Cinca (ng004f)
+----------------------------------------------
+ID#: ng004f
+Name: Cinca
+Charm of Nai's Glory
+Smokey female, fire eyes and claws
+Stage 1.0
+Life Points: 100
+Strength: 20
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Strike -- 40 Damage (Augmented by Claws)
+Owner: Kei
+Drawn: 05/20/04
+Note: Her claws allow her Strike and Stomp Attacks to be augmented if she were to learn those attacks.
+Starter Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng004f
+Name: Cinca
+Charm of Nai's Glory
+Smokey female, fire eyes and claws
+Stage 1.0
+Life Points: 110
+Strength: 25
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Strike -- 40 Damage (Augmented by Claws)
+Owner: Kei
+Drawn: 05/20/04
+
+Stat Additions (04/16/06):
+ID#: ng004f
+Name: Cinca
+Charm of Nai's Glory
+Smokey female, fire eyes and claws
+Stage 1.0
+Life Points: 115
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Strike -- 40 Damage (Augmented by Claws)
+Owner: Kei
+Drawn: 05/20/04

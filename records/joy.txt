@@ -1,0 +1,33 @@
+Joy
+aylinnchan@yahoo.com
+
+Quox: 100q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Konoi (ng019m)
+----------------------------------------------
+ID#: ng019m
+Name: Konoi
+Charm of Nai's Glory
+Pale Green Male with Light Blue Stripes, Blue Eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs) 
+Owner: Joy
+Drawn: 06/25/04
+Starter Naisuk

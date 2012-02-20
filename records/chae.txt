@@ -1,0 +1,51 @@
+Chae
+t_d_regan@yahoo.com
+
+Quox: 280q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Orsol (ng038m)
+----------------------------------------------
+ID#: ng038m
+Name: Orsol
+Charm of Nai's Glory
+Gray Male with Black Spots, Yellow Eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+General Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Chae
+Drawn: 02/06/05
+Starter Naisuk
+
+ID#: ng038m
+Name: Orsol
+Charm of Nai's Glory
+Gray Male with Black Spots, Yellow Eyes
+Stage 1.1
+Additions: Brown Mane
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+General Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Chae
+Drawn: 02/06/05

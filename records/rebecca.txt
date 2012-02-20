@@ -1,0 +1,33 @@
+Rebecca
+rebeccasaalfeld@hotmail.com
+
+Quox: 170q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for ??? (ng049m)
+----------------------------------------------
+ID#: ng049m
+Name:
+Charm of Nai's Glory
+Mint Green Male with Black Ornate Markings, Pink Eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Rebecca
+Drawn: 05/28/05
+Starter Naisuk

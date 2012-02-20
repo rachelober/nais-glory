@@ -1,0 +1,326 @@
+Eraeria
+frostedwings@hotmail.com
+
+Quox: 565q
+
+Used Items
+----------------------------------------------
+Element of Flint (Dwana)
+Element of Glory (Blrudie)
+Element of Moon (Galáclya)
+Glorious Battle Attack [Level 1] (Blrudie)
+Light Flicker Attack [Level 1] (Dwana)
+Living Chest Plate (Blrudie)
+Pattern Addition (Blrudie)
+
+Unused Items
+----------------------------------------------
+Blight Attack [Level 1]
+Chain Mail
+Element of Cosmos
+Element of Decay
+Element of Evil
+Eldorian Crystal
+Element of Water
+Galaxy Slash Attack [Level 1]
+Hair Mutation
+Liberty Spikes
+Luminescent Blow Attack [Level 1]
+Moon Crater Attack [Level 1]
+Reflection Attack [Level 1]
+Solar Flare Attack [Level 1]
+Tail Mutation
+
+Unique Items
+----------------------------------------------
+Living Chest Plate
+Requirements: None
+Effect: Defense +35%; ability for special attacks
+Description: A precious gift made from alloy and living cells. Includes a violet gem at the center. Glows with life energy.
+
+----------------------------------------------
+Records for Blrudie (ng008f)
+----------------------------------------------
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female, long tail, violet eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 25
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Eraeria
+Drawn: 05/20/04
+Notes: Her long tail allows her to learn the Tail Whip Attack and use tail weaponry.
+Starter Naisuk
+
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems
+Glory Elemental
+Stage 1.1
+Additions: Brick Pattern Addition, Element of Glory
+Life Points: 100
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 25
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Eraeria
+Redrawn: 06/18/04
+Notes: The Element of Glory has augmented her Speed as well as give her golden 
+jewelry and purple gems on her face. Her Elemental symbol is on her rump.
+
+Stat Additions (11/19/04):
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems
+Glory Elemental
+Stage 1.1
+Life Points: 115
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Eraeria
+Redrawn: 06/18/04
+
+Stat Additions (01/26/05):
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems
+Glory Elemental
+Stage 1.1
+Life Points: 120
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Eraeria
+Redrawn: 06/18/04
+
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems
+Glory Elemental
+Stage 2.0
+Life Points: 170
+Strength: 55
+Speed: 60
+Intelligence: 50
+Cunning: 55
+Defense: 60
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Notes: Blrudie picked up another tail ring and some jewels for her bracelets! 
+Owner: Eraeria
+Redrawn: 01/30/05
+
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems
+Glory Elemental
+Stage 2.0
+Additions: Tail Whack
+Life Points: 170
+Strength: 55
+Speed: 60
+Intelligence: 50
+Cunning: 55
+Defense: 60
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Tail Whack -- Damage 50 
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Notes: Blrudie picked up another tail ring and some jewels for her bracelets! 
+Owner: Eraeria
+Redrawn: 01/30/05
+
+Stat Additions (04/16/05):
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems
+Glory Elemental
+Stage 2.0
+Additions: Tail Whack, Glorious Battle Attack
+Life Points: 185
+Strength: 65
+Speed: 60
+Intelligence: 50
+Cunning: 55
+Defense: 65
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Tail Whack -- Damage 50
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Glorious Battle -- Damage 50; opponent's next attack only does half damage; must wait 2 turns before using this attack again; may only be used 3x per battle
+Owner: Eraeria
+Redrawn: 01/30/05
+
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems, Living Chest Plate
+Glory Elemental
+Stage: 2.1 
+Additions: Living Chest Plate
+Life Points: 185
+Strength: 65
+Speed: 60
+Intelligence: 50
+Cunning: 55
+Defense: 88 (Base: 65 + 35% from Living Chest Plate)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Tail Whack -- Damage 50
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Glorious Battle -- Damage 50; opponent's next attack only does half damage; must wait 2 turns before using this attack again; may only be used 3x per battle
+Owner: Eraeria
+Redrawn: 07/26/05
+Notes: The Living Chest Plate is a mystical gift given to those worthy to bond with it. It is made with a special metal that includes alloy and living cells. The living cells have bonded to Blrudie's body and cannot be removed. The chest plate glows with life energy and has not only given Blrudie higher defense, but also more strength to battle. With time and special concentration, Blrudie can master the use of her new shield to absorb life energy attacks to develop her own new battle techniques.
+
+Stat Additions (08/07/2005):
+ID#: ng008f
+Name: Blrudie
+Charm of Nai's Glory
+Cream female with brick red markings, long tail, violet eyes
+Gold Wristbands, Gold Tail band, Purple Gems, Living Chest Plate
+Glory Elemental
+Stage: 2.1 
+Additions: Living Chest Plate
+Life Points: 190
+Strength: 65
+Speed: 65
+Intelligence: 58
+Cunning: 55
+Defense: 88 (Base: 65 + 35% from Living Chest Plate)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Tail Whack -- Damage 50
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Glorious Battle -- Damage 50; opponent's next attack only does half damage; must wait 2 turns before using this attack again; may only be used 3x per battle
+Owner: Eraeria
+Redrawn: 07/26/05
+Notes: The Living Chest Plate is a mystical gift given to those worthy to bond with it. It is made with a special metal that includes alloy and living cells. The living cells have bonded to Blrudie's body and cannot be removed. The chest plate glows with life energy and has not only given Blrudie higher defense, but also more strength to battle. With time and special concentration, Blrudie can master the use of her new shield to absorb life energy attacks to develop her own new battle techniques.
+
+----------------------------------------------
+Records for Rainssa (ng052f)
+----------------------------------------------
+ID#: ng052f
+Name: Rainssa
+Charm of Nai's Glory
+Gray Dust Female, Cyan Eyes
+Leg Guard, Blue Earrings
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 32 (Base: 30 + 5% from Leg Guard)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Erae
+Drawn: 05/28/05
+Price -- 40q
+
+----------------------------------------------
+Records for Dwana (eh73f)
+----------------------------------------------
+ID#: eh73f
+Name: Dwana
+Clan of Eorl's Honor
+Wolf female, yellow eyes
+Spiked Werewolf Coat, Green Aura
+Fangs, Claws, Demon Spines
+Halloween Eorlan 2003
+Flint Elemental
+Stage: 1.2
+Additions: Element of Flint
+Life Points: 155
+Strength: 45
+Speed: 55
+Intelligence: 50
+Cunning: 53
+Defense: 72 (Base: 55 + 30% from Demon Spines)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 40 Damage (augmented by Fangs)
+Scratch -- 40 Damage (augmented by Claws)
+Flint Attacks:
+Spark -- 40 Damage
+Light Flicker -- opponent's next attack misses
+Owner: Eraeria
+Redrawn: 02/06/05
+
+----------------------------------------------
+Records for Galáclya (is016f)
+----------------------------------------------
+ID#: is016f
+Name: Galáclya
+Warren of Iern's Spirit
+Dusty Purple Female with White Markings, Glowing Eyes
+Moon Elemental
+Stage 1.1
+Additions: Element of Moon
+Life: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Shriek -- lowers opponent's Defense by 10% of original value each time used
+Snap -- 30 Damage
+Moon Attacks:
+Lunar Eclipse -- 40 Damage; augmented to 45 if nighttime
+Owner: Eraeria
+Redrawn: 02/06/05

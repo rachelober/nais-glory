@@ -1,0 +1,98 @@
+Talia Jones
+talia_jones10@yahoo.com
+
+Quox: 275q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+Carrot
+Element of Moon
+
+----------------------------------------------
+Records for Yeesha (ng034f)
+----------------------------------------------
+ID#: ng034f
+Name: Yeesha
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Pink Female with Purple Tiger Stripes, Yellow Eyes
+Stage 1.0
+Life Points: 100
+Strength: 40
+Speed: 30
+Intelligence: 35
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Talia
+Drawn: 01/17/05
+Starter Naisuk
+
+Stat Additions (04/16/05):
+ID#: ng034f
+Name: Yeesha
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Pink Female with Purple Tiger Stripes, Yellow Eyes
+Stage 1.0
+Life Points: 115
+Strength: 40
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Talia
+Drawn: 01/17/05
+Starter Naisuk
+
+Stat Additions (08/07/05):
+ID#: ng034f
+Name: Yeesha
+Charm of Nai's Glory
+Sleuth of Turning Leaves
+Pink Female with Purple Tiger Stripes, Yellow Eyes
+Stage 1.0
+Life Points: 120
+Strength: 50
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Talia
+Drawn: 01/17/05
+Starter Naisuk
+
+----------------------------------------------
+Records for Maeve (ng045f)
+----------------------------------------------
+ID#: ng045f
+Name: Maeve
+Charm of Nai's Glory
+Purple Female with Pink Stripes, Blue Eyes
+Fangs
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (augmented by Fangs)
+Owner: Talia
+Previous Owner: Aurryinne
+Drawn: 03/09/05
+Auctioned: 11/17/05 for 55q to Talia

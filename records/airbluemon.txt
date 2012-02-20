@@ -1,0 +1,51 @@
+airbluemon
+airbluemon2003@yahoo.com
+
+Quox: 125q
+
+Used Items
+----------------------------------------------
+Pattern Addition (Mossy)
+
+Unused Items
+----------------------------------------------
+Steel Claws
+
+----------------------------------------------
+Records for Mossy (ng010m)
+----------------------------------------------
+ID#: ng010m
+Name: Mossy
+Charm of Nai's Glory
+Mossy green male, light green eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Airblumon
+Starter Naisuk
+Drawn: 05/21/04
+
+ID#: ng010m
+Name: Mossy
+Charm of Nai's Glory
+Mossy green male, light green eyes
+Stage 1.1
+Additions: Pattern Addition
+Life Points: 100
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 30
+Attacks:
+Gnaw -- 30 Damage
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Owner: Airblumon
+Redrawn: 06/25/04

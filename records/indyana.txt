@@ -1,0 +1,194 @@
+Indyana
+battles@indyslair.net
+
+Quox: Unlimited
+
+Used Items
+----------------------------------------------
+Drive Attack [Level 1] (Karupo)
+Eldorian Crystal (Karupo)
+Element of Moon (Karupo)
+Element of Sun (Adelaide)
+Liberty Spikes (Steel)
+Paw Mutation (Karupo)
+Solar Flare Attack [Level 1] (Adelaide)
+Solar Eclipse Attack [Level 1] (Adelaide)
+Three Back Spines (Karupo)
+
+Unused Items
+----------------------------------------------
+Circlet
+Eternal Consequence Attack [Level 1]
+Gravitate Attack [Level 1]
+Immediate Pressure Attack [Level 1]
+Luna Attack [Level 1]
+Hearth Stone
+Marking Addition
+Moon Crater Attack [Level 1]
+Pleasent Ray Attack [Level 1]
+Reflection Attack [Level 1]
+Tail Mutation
+Tail Spikes
+
+Unique Items
+----------------------------------------------
+Three Back Spines
+Requirements: Strength 35
+Effect: +35% Defense
+Description: Three thick lines of back armor that are made of steel but lined with Eldorian Crystal.
+
+Mix Metal Liberty Spikes
+Requirements: Strength 40
+Effect: Defense +25%.
+Description: Strong Steel Liberty Spikes that have been covered with Eldorian Crystal.
+
+----------------------------------------------
+Records for Karupo (ng001m)
+----------------------------------------------
+ID#: ng001m
+Name: Karupo
+Charm of Nai's Glory
+Indigo male, violet eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 20
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Indyana
+Drawn: 05/05/04
+Starter Naisuk
+
+ID#: ng001m
+Name: Karupo
+Charm of Nai's Glory
+Indigo male, glowing violet eyes
+Clydesdale Hooves, Three Backspines
+Moon Elemental
+Stage 1.1
+Additions: Paw Mutation, Three Backspines, Drive Attack, Element of Moon
+Life Points: 100
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 27 (Base: 20 + 35% from Three Backspines)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Drive -- 40 Damage
+Moon Attacks:
+Lunar Eclipse -- Damage 40; augmented to 45 if nighttime
+Owner: Indyana
+Redrawn: 06/24/04
+Notes: The Element of Moon mutated the Three Backspines and caused them 
+to separate and glow blue. The Eldorian Crystal on the weapon has also gained 
+some magic properties but can only be mastered as Karupo grows older. His 
+Elemental Symbol is on his chest.
+
+Stat Additions (11/09/04):
+ID#: ng001m
+Name: Karupo
+Charm of Nai's Glory
+Indigo male, glowing violet eyes
+Clydesdale Hooves, Three Backspines
+Moon Elemental
+Stage 1.1
+Life Points: 110
+Strength: 35
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 41 (Base: 30 + 35% from Three Backspines)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Drive -- 40 Damage
+Moon Attacks:
+Lunar Eclipse -- Damage 40; augmented to 45 if nighttime
+Owner: Indyana
+Redrawn: 06/24/04
+
+Stat Additions (01/26/05):
+ID#: ng001m
+Name: Karupo
+Charm of Nai's Glory
+Indigo male, glowing violet eyes
+Clydesdale Hooves, Three Backspines
+Moon Elemental
+Stage 1.1
+Life Points: 115
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 41 (Base: 30 + 35% from Three Backspines)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Drive -- 40 Damage
+Moon Attacks:
+Lunar Eclipse -- Damage 40; augmented to 45 if nighttime
+Owner: Indyana
+Redrawn: 06/24/04
+
+Stat Additions (04/16/05):
+ID#: ng001m
+Name: Karupo
+Charm of Nai's Glory
+Indigo male, glowing violet eyes
+Clydesdale Hooves, Three Backspines
+Moon Elemental
+Stage 1.1
+Life Points: 120
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 47 (Base: 35 + 35% from Three Backspines)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Drive -- 40 Damage
+Moon Attacks:
+Lunar Eclipse -- Damage 40; augmented to 45 if nighttime
+Owner: Indyana
+Redrawn: 06/24/04
+
+----------------------------------------------
+Records for Adelaide (ep102f)
+----------------------------------------------
+ID#: ep102f
+Name: Adelaide
+Clan of Eorl's Pride
+Tribe of Eternal Journeys
+Crimson female with gold stars, gold eyes
+Part of the Hogwarts Four: Gryffindor
+Unique Neck Armor, Golden Hair Tufts, Garnet Gem, Rhodolite Gem, Sun Head Spikes
+Sun Elemental
+Stage: 1.4
+Additions: Element of Sun, Solar Flare Attack, Solar Eclipse Attack
+Life Points: 150
+Strength: 50
+Speed: 52
+Intelligence: 50
+Cunning: 51
+Defense: 74 (Base: 49 + 25% from Neck Armor + 10% from Back Fins + 15% from Sun Head Spikes)
+Attacks:
+Nip -- 30 Damage
+Bite -- 50 Damage
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Roar -- lowers opponent's Defense by 20% of original value each time used; may only be used 3x per battle
+Hogwarts Howl -- 40 Damage; takes 50% away from opponent's next damaging attack *Special Attack*
+Sun Attacks:
+Sunlight -- Damage 40; augmented to 45 if daytime
+Solar Flare -- Damage 50; augmented to 55 if daytime
+Solar Eclipse -- opponent's next attack misses
+Owner: Indyana
+Redrawn: 06/25/04
+Notes: Her Element of Sun Symbol is on her hip on the left side of her body. The Element 
+of Sun has given Adelaide Sun Head Spikes on the back of her head.

@@ -1,0 +1,98 @@
+Kit
+FoxStormchaser@aol.com
+
+Quox: Unlimited
+
+Used Items
+----------------------------------------------
+Claws (Rykka)
+Double Horns (Rykka)
+Element of Flint (Rykka)
+
+Unused Items
+----------------------------------------------
+Element of Death
+Element of Glory
+Element of Moon
+Element of Water
+Drive Attack [Level 1]
+Glorious Battle [Level 1]
+Light Flicker [Level 1]
+Luminescent Blow [Level 1]
+Luna [Level 1]
+Moon Crater [Level 1]
+Reflection [Level 1]
+Scintilla of Might [Level 1]
+Snarl Attack [Level 1]
+Super Soaker [Level 1]
+Tail Spikes
+Tinder Box [Level 1]
+Tusks
+
+----------------------------------------------
+Records for Rykka (ng009f)
+----------------------------------------------
+ID#: ng009f
+Name: Rykka
+Charm of Nai's Glory
+Mint green female with smokey face, ember eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 25
+Intelligence: 40
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Kit
+Drawn: 05/20/04
+Starter Naisuk
+
+ID#: ng009f
+Name: Rykka
+Charm of Nai's Glory
+Smoky green female with brown face, ember eyes
+Flint Elemental
+Stage 1.1
+Additions: Claws, Double Horns, Element of Flint
+Life Points: 100
+Strength: 30
+Speed: 25
+Intelligence: 40
+Cunning: 33
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Flint Attacks:
+Spark -- 40 Damage
+Owner: Kit
+Redrawn: 05/20/04
+Notes: Flint Elemental darkened her fur and gave her a spiky, red mane. Her 
+Elemental symbol is on her left foot. Double horns allows her to learn Drive 
+if she should find/buy the attack.
+
+Stat Additions (11/09/04):
+ID#: ng009f
+Name: Rykka
+Charm of Nai's Glory
+Smoky green female with brown face, ember eyes
+Claws, Double Horns
+Flint Elemental
+Stage 1.1
+Additions: Claws, Double Horns, Element of Flint
+Life Points: 115
+Strength: 30
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Flint Attacks:
+Spark -- 40 Damage
+Owner: Kit
+Redrawn: 05/20/04

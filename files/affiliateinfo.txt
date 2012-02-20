@@ -1,0 +1,106 @@
+--------------
+This is the dreaded NRBC Affiliate Information email.  It includes a general summary of how-tos and information.  Please read it over carefully and ask if you have any questions.
+
+Version: 1.2
+Updated: January 25, 2005
+--------------
+When you become a member:
+
+You will be given an official membership banner to put on your main page to link you to the NRBC.  You will also be authorized to start selling.
+
+You will be given administrator powers on the board.  Also, your quox will become "Unlimited", meaning you can buy whatever you want.  Leaders are expected to show good judgement in this.  We are special and have access to whatever items we need, but you shouldn't bid in special auctions against the trainers or buy absolutely everything and make your creatures unstoppable (no one will ever want to battle you lol).  If you ever need a special item, it is better to ask the other Leader(s) if they would like to do a trade.
+
+You will receive forums of your own, which I will make.  You will have an updates forum and a roleplaying forum.  You must let me know what your "Lands" should be called.  They do not have to be called "Lands of..." lol
+
+All Leaders will update their sites to add you as an affiliate.  You must link all current affiliates in the NRBC.  You can find them by visiting the NRBC info page (http://battles.indyslair.net/nrbc.htm).  You need not include Eorl's Pride, as that site is inactive.
+
+All Leaders will update their code to include your line (Battle with Honor.  Battle with Glory. Battle with ____.).  "Battle with Pride" will be left up, as it is part of the original code.  On your site, you can order your code lines any way you wish, according to your philosophy.  Example: At Eorl's Honor, Honor, Spirit, and Glory are placed before Pride and Fury.  This has nothing to do with the order of affiliates, but rather with the battling philosophy of Eorl's Honor.
+
+You must email all other Leaders two lists of attack augmentations (with exact Damage values): One list that is your weaponry that augments their attacks, and one list that is your attacks that are augmented by their weaponry.  For example, if one of your attacks is augmented to 50 Damage by Claws, you would have to email that to all the Leaders who sell Claws.  If a weapon you sell augments, say, a Bite Attack to 55 Damage, you would have to email that to all Leaders who sell a Bite Attack.  The easiest way to do this is just to visit each site and go down the lists on the Attacks and Weaponry pages.
+
+We will not write elemental adjustments straight off, as you will not be selling elements right away.  Please email the other Leaders when you are ready to write your elemental adjustment values.  There is a section below on elements and elemental adjustments that you should read first.
+
+You will be asked if you wish to take over any elements from Eorl's Pride.  These will not count as part of your original five elements.  You will keep the information, symbol, attacks, and adjustment values from Eorl's Pride.  You will create your own item/patch graphics for the element and your own attacks/patches graphics as well, and you may change the effects of the elemental spell on appearance/temperment if you wish.  You will have to write adjustment values against your elements, since those are not written.  You will also have to write them against other affiliates that have not begun their elemental sales, when the time arises.
+--------------
+Running the Board:
+
+Okay, so the way the board works right now for battles is this: First of all, on the Battlefield, the Leaders are responsible for recording and archiving battles. If the battles involve only one Leader, that Leader can record the finished battle, close the thread, and archive it in the Battle Archives immediately. If the battle involves 2 or more Leaders, the first Leader to record it makes a reply that says they have recorded stuff, then moves the thread to the Battle Review forum so the other Leaders can check it out.  Each Leader, as they record, should leave a reply saying they've recorded the battle. When all Leaders involved have seen it, the last Leader to reply closes the thread and archives it in the Battle Archives forum.
+
+If the battle is just one type of critter with no items/quox exchanged, it is just the one Leader.  If the battle has 2 different types of critters with no items/quox exchanged, it will have to be recorded by 2 Leaders.  If the battle has items exchanged, the Leader(s) responsible for the items must see the thread before it is archived.  If the battle has quox exchanged, ALL Leaders must see it because we all keep track of quox.  Check any finished battle you see and figure out if someone else needs to see if or if it is your turn to close.  Make sure you know who all the current Leaders are.  ;)
+
+Example: A Naisuk and an Eorlan finish a battle, and items from Iern's Spirit have been exchanged.  Each of the three Leaders must see the battle (Bright Promise, Indy, and Spiderfly).  The first Leader would make a reply to it saying they saw it and recorded either the battle or the items exchanged and move it to the Battle Review forum.  The second Leader to see it would leave a reply saying that things have been recorded, and the third Leader would reply, close, and archive it in the Battle Archives.
+
+Example: Two Eorlan battle and exchange quox as a prize.  The first Leader would leave a reply saying either the battle or the quox had been recorded and move it to the Battle Review forum.  As the other Leaders saw it, they would leave a reply saying they had recorded the quox exchanged or the battle.  The last one to see it would leave their reply, close the thread, and archive it in the Battle Archives.
+
+For records, any time that you award quox to someone, you must send a copy to the other Leaders so they know.  So, when people join and get 50q or 100q from you, you have to let the other Leaders know through an email who has received quox and joined.  Also, if someone brand new joins your agency, you should alert the other Leaders so they can start keeping records.  Be sure to include their Trainer name and email address.
+
+The stuff on the Exchange is everyone's responsibility to watch.  The trainers on the exchange are supposed to email all Leaders when trades occur, but sometimes they forget, so be ever vigilant.  If you see someone doing something but haven't received an email from them about it, post and remind them that they are required to email the Leaders.  For official sales, it is best if the Leader of the sale tallies up the damage and sends a copy to all the other Leaders.
+
+As for other forums, the threads in your roleplaying forum (ex. The Lands of Honor, The Lands of Rhul) are your responsibility to watch.  It is your job to decide how the roleplays work, which threads to close, which threads to archive (in the regular Archives, not the Battle Archives), and when to delete threads.  HOWEVER, if a creature from another land roleplays in your forum, you must leave this thread for the other Leader(s) to examine for their records to assign Roleplaying Points.  You can always email the other Leader(s) and request that they review the thread so you can archive or delete it.
+
+The Neutral Territory is not run by anyone per se, but all of us need to check it and record roleplaying before stat awards, so when I am planning to do stat awards, I will send a warning out to the other Leaders telling them to record threads there so I can delete/archive them.
+
+General Discussion is everyone's responsibility to watch, but I will be responsible for deleting threads.  If you want a thread archived, do so before I delete it (as in, as soon as you finish it).  I have left little areas for people to tell me if they want something of theirs archived.  Everything else will be deleted when I do cleaning.  Feel free to make/close threads in General Discussion.
+--------------
+Stat Awards:
+
+Now that that is taken care of, about stat awards... for a given round of battles (usually around every 3 months), I keep records in a file of Eorlan, their wins-losses-draws and their battles watched.  When it is time for stat awards, I rearrange them into order by most battles first, then by most wins... so, like, for these battles, this would be the order: 1-5-0, 3-1-0, 2-2-0, 2-1-0, 1-1-1, 0-3-0, and 1-1-0.  The top person has fewer wins, but they have 6 total battles, so they get more credit.  When this is done, I divide the list into little groups of Eorlan, trying to make about 5 or so groups.  So, for that short list about, I would probably put 1-5-0 in its own group, 3-1-0 and 2-2-0 into the next, 2-1-0, 1-1-1, and 0-3-0 into the next, and 1-1-0 in to the final group.  Usually, I try to make the groups for total numbers of battles, and then I bump up the top few people in the lower group (so all the 3 total battles would be in one group, and then 2-0-0 would get bumped up into that group and 3-0-0 would leave the group and be bumped up into the 4 total battles group).  Once I feel that I have groups representing the different levels of battling, then I assign Life Points and Experience Points awards to each group.
+
+Usually, I start with +15 Life and +15 Experience and start working downwards: +15/+10, +10/+15, +10/+10, +5/+10, and +5/+5.  Life Points are worth more important than Experience Points.  Sometimes I have fewer levels so I have to decide how much I want to give people. In VERY rare cases, if someone has really battled extreme amounts above the rest of the Eorlan, they could get +15/+20, but I rarely use this.
+
+Roleplaying Points are tallied at the same time as battles.  Leader must examine all their own threads (threads involving only their creatures).  They must leave any threads in their forum that contain outside creatures for the other Leader(s) to examine.  They must also search the Neutral Territories and the other lands for threads containing their creatures and record them.  Again, leaving a little reply on a thread in a forum that is not yours, saying that you have read/recorded the roleplaying, is a good idea.  Around the time for stat awards, I will probably be emailing you all anyways, so we can stay organized.
+
+The general rule is 1 RPP for each page of roleplaying.  However, if people are making very long, detailed posts, and you feel they deserve more, you may give more.  Conversely, if you see a very large number of people in a thread and some are not posting often, you may assign less to certain players.  I often give bonus points for important quests completed.  Roleplaying Points are often added to Battles Watched to give a total rating for an Eorlan.
+
+The point of RPP is, of course, to aid in Eorlan growth.  They also count toward special things and help me determine the basic experience level of the Eorlan.  Stat awards are more important to me, but an Eorlan with high RPP is also good.
+--------------
+Quox Awards:
+
+I usually award 5q for every battle the trainer has participated in (all their Eorlan added up) and 5q for every 2 RP Points.  If the number of RP points is odd, I just add the extra 5q.
+
+Example: A trainer has done 5 Eorlan battles and earned 6 Eorlan RP Points.  They will receive 40q from me (5 X 5q = 25q, 6/2 = 3, 3 X 5q = 15q, 25q + 15q = 40q).
+
+Example: A trainer has had 7 Eorlan battles and earned 11 RP Points.  They will receive 65q from me (7 X 5q = 35q, 11/2 = 5.5 > 6, 6 X 5q = 30q, 35q + 30q = 65q).
+--------------
+Growths:
+
+When I do growths, I look at total RPP and total Life/Exp Point gains and pick the top few who haven't grown.  Life/Exp Points are generally worth more toward growing, except for puppies.  Stat awards and RPP are also going to count toward the mysterious Elder thing I'm doing much later on in the game.
+--------------
+Cumulative Records:
+
+After I figure out the stat awards and post them, along with the RPP for that round and any growths awarded, I add the current round to my cumulative records file, where I keep track of how many total battle records (wins-losses-draws), total Life Points and Experience Points an Eorlan has been awarded, and total RPP (including Battles Watched).  As I said before, this helps me judge the general level of the Eorlan.  I have a post I maintain in my updates forum that allows the trainers to see my cumulative records.
+--------------
+Trainer Records:
+
+You probably know these well by now, but I'll tell you anyways.  Your trainer text records should include name, email address, total quox, all items from you, and all records for their creatures.  I always keep every stage recorded, as well as records for every round of stat awards.  You'd be surprised how many people lose stat information.
+--------------
+Writing Stats:
+
+Base for Pups is Life Points: 100 and all stats 30.  Now, the different stats vary, but just think of 30 as the center when creating them.  I usually range about 25-40 when writing starter stats.  All pups start with Growl (-10% original Defense) and Nip (30 Damage), so try to have something comparable for your creatures.
+
+For Adults, the base is Life Points: 150 and all stats 50.  Same thing about the variance when writing basic adults.
+
+Now, if you are growing a pup to an adult, you just relate the pup stats to the adult stats.  For instance, a pup with Life Points: 110 has +10 Life Points from the pup base of 100.  Therefore, it will have +10 Life Points as an adult (150 + 10 = 160 Life Points).  Same goes for transferring stats (ex. Pup Strength: 45 is +15 from the basic 30, so Adult Strength: (50 + 15) = 65.  If for some reason the stats are lower than base (25, for example), then it will be lower than base for adult (45).  Pretty easy to work with.  I know that you probably won't be worrying about this for a bit, but I figured I would send you the info.
+--------------
+Attacks:
+
+As for attacks, the highest attacks most people have right now are Bite (50 Damage), Charge (60 Damage, but subtracts 10% of Life Points from user), and Roar (-20% Defense).  Some Eorlan have 60 or 65 Damage Gouge attacks.  One Eorlan has a 70 Damage Life attack.  Try to keep this in mind for when you start releasing more attacks to trainers.  When you release a higher attack to one creature, it isn't that important, but if you start selling attacks that are higher damage than around 60, you should email the other Leaders to let them know.  This is so they can judge what attacks to grant their own creatures, to help the agencies stay on the same footing.
+--------------
+Elements and Elemental Adjustments:
+
+Elements and Their Classes: I decided that the Cardinal elements were Earth, Fire, Wind, Water, Light, and Dark.  Anything that I feel is derived from these is called a Cardinal Derivative (for example, Starlight is derived from Light).  If it is derived from two, it is a Dual Cardinal Derivative (Fire + Earth = Lava).  Good, Evil, Chaos, and Neutral are the four major Alignments.  Things derived from these are called Alignment Derived (Honor is derived from Good).  Things such as Life, Death, and Time are called Constants.  I made up new categories for things that didn't fit.  For example, for Psychic I made the Augmented class, because I figured Psychic was augmented intelligence.  Derivatives of derivatives become Derivative Derived (for example, Caffeine is derived from Plants, which are a derivative of Earth, thus it is Cardinal Derivative Derived).  You can make up your own categories as well, for elements you feel are not derived from the larger elemental categories.
+
+Now, for Elemental Adjustments:  Some of you won't be writing these until later on, but I'll tell you the general protocal.  Each Leader is responsible for writing the adjustment values for their elements against all other elements available ("Available" means any element that is active or maintained.  This does not include elements for which the Leader has not written any adjustment values.  It does include elements that are fully ready with adjustment values but haven't actually been sold.).  You write the values based on the interactions of the elements.
+
+Exact opposites (Dark vs Light) have high advantages for each (+50% for each), so the advantages even out.
+
+For things that are very detrimental (Water vs Fire), there is a high advantage on one side (+50% for Water against Fire) and a highly negative disadvantage on the other (-50% for Fire against Water).
+
+Elements that are related in some way or derivatives of the same forces (Light vs Starlight, Lava vs Fire) have negative values, as their effectivity is lowered (-10% for Light against Starlight, -10% for Starlight against Light; -50% for Lava against Fire, -50% for Fire against Lava). Notice that the values between Light and Starlight are -10%, while the values between Lava and Fire are -50%.  Starlight is considered only a small facet of the Light spectrum, and thus, the interaction is not too strong.  Lava is half Fire, however (Lava is derived from Fire and Earth), so the interaction is considered very strong.
+
+Values decrease as the relationships between things decrease.  For example, Good and Evil have +50% against each other as exact opposites.  The values between Honor and Evil, however, are less and a bit different (Evil against Honor: -10%, Honor against Evil: +10%).  This is because Honor and Evil are no longer exact opposites.  For much of the table, you can have -0% (None).  Only make adjustments where you can see a logical effect.  Elements against themselves are always -100% (No Effect) (so, Fire Attacks do nothing against another Fire Elemental, etc.).
+
+When you write adjustment values for your elements, you must email them to the other Leaders for review, so they can make sure they agree with the way your elements interact with theirs.  The same applies for when you want other Leaders to write values against your elements.  They must email you the values they come up with for your approval.
+
+You must alert the other Leaders when you are ready to write elemental adjustments for your elements.  You also must email them when you are adding a new element.
+--------------

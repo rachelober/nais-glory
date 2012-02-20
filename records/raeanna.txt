@@ -1,0 +1,60 @@
+Raeanna
+auroravalley@yahoo.com
+
+Quox: 620q
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+Aqua Stone
+Leg Armor *unique*
+Nightshade Leaves
+
+Unique Items
+----------------------------------------------
+Leg Armor
+Requirements: Strength 40
+Effect: +25% Defense
+Description: Armor that fits around the Naisuk's legs. It is furnished with gold emboss and a few red gems.
+
+----------------------------------------------
+Records for Juylin (ng007m)
+----------------------------------------------
+ID#: ng007m
+Name: Juylin
+Charm of Nai's Glory
+White male with smokey grey markings, icy blue eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 20
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Raeanna
+Drawn: 05/20/04
+Starter Naisuk
+
+Stat Additions (11/19/04):
+ID#: ng007m
+Name: Juylin
+Charm of Nai's Glory
+White male with smokey grey markings, icy blue eyes
+Stage 1.0
+Life Points: 110
+Strength: 30
+Speed: 30
+Intelligence: 40
+Cunning: 35
+Defense: 25
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Raeanna
+Drawn: 05/20/04

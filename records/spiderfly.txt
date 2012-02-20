@@ -1,0 +1,213 @@
+Spiderfly
+battles@getairo.com
+
+Quox: 480q
+
+Used Items
+----------------------------------------------
+Claws (Fionnuala)
+Fangs (Fionnuala)
+Horn (Fionnuala)
+Helmet (Fionnuala)
+Paw Guards (Fionnuala)
+
+Unused Items
+----------------------------------------------
+Arm Spikes *unique*
+Chomp Attack [Level 1]
+Drive Attack [Level 1]
+Strike Attack [Level 1]
+
+Unique Items
+----------------------------------------------
+Arm Spikes
+Requirements: Strength: 40, Speed: 40, Intelligence: 30
+Effect: Increases slashing attacks.
+Description: Bright, shiny silver spikes, fitted for front limbs.
+
+----------------------------------------------
+Records for Fionnuala (ng015m)
+----------------------------------------------
+ID#: ng016f
+Name: Fionnuala
+Charm of Nai's Glory
+Brown female with light red markings and white paws, green eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Spiderfly
+Drawn: 06/06/04
+Price -- 20q
+
+ID#: ng016f
+Name: Fionnuala
+Charm of Nai's Glory
+Brown female with light red markings and white paws, green eyes
+Claws, Emerald Horn, Fangs
+Steel Helmut, Steel Paw Guards
+Stage 1.1
+Additions: Claws, Emerald Horn, Fangs, Steel Helmut, Steel Paw Guards
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 42 (Base: 35 + 10% from Steel Helmut + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Owner: Spiderfly
+Redrawn: 06/18/04
+Notes: Emerald Horn allows Fionnuala to learn Drive if she should find/buy the attack.
+
+Stat Additions (11/19/04):
+ID#: ng016f
+Name: Fionnuala
+Charm of Nai's Glory
+Brown female with light red markings and white paws, green eyes
+Claws, Emerald Horn, Fangs
+Steel Helmut, Steel Paw Guards
+Stage 1.1
+Life Points: 105
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 46 (Base: 40 + 10% from Steel Helmut + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Owner: Spiderfly
+Redrawn: 06/18/04
+
+Stat Additions (01/26/05):
+ID#: ng016f
+Name: Fionnuala
+Charm of Nai's Glory
+Brown female with light red markings and white paws, green eyes
+Claws, Emerald Horn, Fangs
+Steel Helmut, Steel Paw Guards
+Stage 1.1
+Life Points: 110
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 46 (Base: 40 + 10% from Steel Helmut + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Owner: Spiderfly
+Redrawn: 06/18/04
+
+Stat Additions (04/16/05):
+ID#: ng016f
+Name: Fionnuala
+Charm of Nai's Glory
+Brown female with light red markings and white paws, green eyes
+Claws, Emerald Horn, Fangs
+Steel Helmut, Steel Paw Guards
+Stage 1.1
+Life Points: 115
+Strength: 35
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 46 (Base: 40 + 10% from Steel Helmut + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Owner: Spiderfly
+Redrawn: 06/18/04
+
+Stat Additions (08/07/05):
+ID#: ng016f
+Name: Fionnuala
+Charm of Nai's Glory
+Brown female with light red markings and white paws, green eyes
+Claws, Emerald Horn, Fangs
+Steel Helmut, Steel Paw Guards
+Stage 1.1
+Life Points: 120
+Strength: 35
+Speed: 40
+Intelligence: 35
+Cunning: 38
+Defense: 46 (Base: 40 + 10% from Steel Helmut + 5% from Steel Paw Guards)
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Owner: Spiderfly
+Redrawn: 06/18/04
+
+----------------------------------------------
+Records for Deaglan (ng053m)
+----------------------------------------------
+ID#: ng053m
+Name: Deaglan
+Charm of Nai's Glory
+Midnight Sky Male, Yellow Eyes
+Claws, Purple Earring
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Spiderfly
+Drawn: 05/28/05
+Price -- 40q
+
+Stat Additions (08/07/05):
+ID#: ng053m
+Name: Deaglan
+Charm of Nai's Glory
+Midnight Sky Male, Yellow Eyes
+Claws, Purple Earring
+Stage 1.0
+Life Points: 105
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Spiderfly
+Drawn: 05/28/05
+
+----------------------------------------------
+Records for Ilico (eh10m)
+----------------------------------------------
+ID#: eh10m
+Name: Ilico
+Clan of Eorl's Honor
+White male with gray patches, red eyes (natural born albino!)
+Double Horns, Face Shield, Liberty Spikes
+Additions: Liberty Spikes
+Life Points: 165
+Strength: 60
+(every 6 turns, my defense drops 10% of original; I may only use 6 damaging attacks in a row before I must rest or use a non-damaging attack)
+Speed: 60
+Intelligence: 60 (Level 2)
+Cunning: 60 (every 4 turns I may attack twice)
+Defense: 80 (Base: 55 + 25% from face shield + 20% from Liberty Spikes)
+Damaging Attacks:
+Nip -- 30 damage
+Bite -- 50 damage
+Non-Damaging Attacks:
+Growl -- lowers opponent's defense by 10% of original value each time used
+Owner: Spiderfly
+Redrawn: 12/13/04

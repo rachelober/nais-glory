@@ -1,0 +1,299 @@
+Bright Promise
+battles@mintkiss.net
+
+Quox: Unlimited
+
+Used Items
+----------------------------------------------
+None
+
+Unused Items
+----------------------------------------------
+None
+
+----------------------------------------------
+Records for Ajeya (ng000f)
+----------------------------------------------
+ID#: ng000f
+Name: Ajeya
+Charm of Nai's Glory
+White female with purple markings, bronze eyes
+Stage 1.0
+Life Points: 100
+Strength: 30
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 20
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Drawn: 05/05/04
+Owner: Bright Promise
+Starter Naisuk
+
+ID#: ng000f
+Name: Ajeya
+Charm of Nai's Glory
+White female with purple markings, bronze eyes
+Fangs, Silver Rings
+Glory Element
+Stage 1.1
+Additions: Element of Glory, Fangs
+Life Points: 100
+Strength: 30
+Speed: 50
+Intelligence: 30
+Cunning: 40
+Defense: 20
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Bright Promise
+Redrawn: 08/11/04
+Notes: Element of Glory resulted in higher speed, jewels around Ajeya's eyes and silver rings on her fingers.
+
+Stat Additions (11/09/04):
+ID#: ng000f
+Name: Ajeya
+Charm of Nai's Glory
+White female with purple markings, bronze eyes
+Fangs, Silver Rings
+Glory Element
+Stage 1.1
+Life Points: 110
+Strength: 30
+Speed: 50
+Intelligence: 30
+Cunning: 40
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Bright Promise
+Redrawn: 08/11/04
+
+Stat Additions (01/26/05):
+ID#: ng000f
+Name: Ajeya
+Charm of Nai's Glory
+White female with purple markings, bronze eyes
+Fangs, Silver Rings
+Glory Element
+Stage 1.1
+Life Points: 115
+Strength: 35
+Speed: 50
+Intelligence: 30
+Cunning: 40
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Bright Promise
+Redrawn: 08/11/04
+
+Stat Additions (04/16/05):
+ID#: ng000f
+Name: Ajeya
+Charm of Nai's Glory
+White female with purple markings, bronze eyes
+Fangs, Silver Rings
+Glory Element
+Stage 1.1
+Life Points: 125
+Strength: 45
+Speed: 50
+Intelligence: 30
+Cunning: 40
+Defense: 40
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Owner: Bright Promise
+Redrawn: 08/11/04
+
+ID#: ng000f
+Name: Ajeya
+Charm of Nai's Glory
+White female with purple markings, bronze eyes
+Fangs, Silver Rings
+Glory Element
+Stage 2.0
+Additions: Tail Mutation, Hair Mutations, Glorious Battle Attack
+Life Points: 175
+Strength: 65
+Speed: 70
+Intelligence: 50
+Cunning: 60
+Defense: 60
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Glorious Battle -- 50 Damage; opponent's next attack only does half damage; must wait 2 turns before using this attack again; may only be used 3x per battle
+Owner: Bright Promise
+Redrawn: 05/30/05
+
+Stat Additions (08/07/05):
+ID#: ng000f
+Name: Ajeya
+Charm of Nai's Glory
+White female with purple markings, bronze eyes
+Fangs, Silver Rings
+Glory Element
+Stage 2.0
+Additions: Tail Mutation, Hair Mutations, Glorious Battle Attack
+Life Points: 180
+Strength: 65
+Speed: 70
+Intelligence: 55
+Cunning: 63
+Defense: 60
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 40 Damage (Augmented by Fangs)
+Glory Attacks:
+Dignity in Glory -- 40 Damage
+Glorious Battle -- 50 Damage; opponent's next attack only does half damage; must wait 2 turns before using this attack again; may only be used 3x per battle
+Owner: Bright Promise
+Redrawn: 05/30/05
+
+----------------------------------------------
+Records for Yoshiaki (ng025m)
+----------------------------------------------
+ID#: ng025m
+Name: Yoshiaki
+Charm of Nai's Glory
+Autumn Male, Orange Eyes
+Stage 1.0
+Life Points: 100
+Strength: 35
+Speed: 30
+Intelligence: 30
+Cunning: 30
+Defense: 30
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Bright Promise
+Drawn: 07/29/04
+Notes: The original trainer was found to be impersonating a new trainer and thus lost privilege to train this young fellow.
+
+Stat Additions (01/26/05):
+ID#: ng025m
+Name: Yoshiaki
+Charm of Nai's Glory
+Autumn Male, Orange Eyes
+Stage 1.0
+Life Points: 105
+Strength: 35
+Speed: 35
+Intelligence: 30
+Cunning: 33
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Bright Promise
+Drawn: 07/29/04
+
+Stat Additions (04/16/05):
+ID#: ng025m
+Name: Yoshiaki
+Charm of Nai's Glory
+Autumn Male, Orange Eyes
+Stage 1.0
+Life Points: 110
+Strength: 35
+Speed: 35
+Intelligence: 35
+Cunning: 35
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Bright Promise
+Drawn: 07/29/04
+
+Stat Additions (08/07/05):
+ID#: ng025m
+Name: Yoshiaki
+Charm of Nai's Glory
+Autumn Male, Orange Eyes
+Stage 1.0
+Life Points: 115
+Strength: 35
+Speed: 35
+Intelligence: 40
+Cunning: 38
+Defense: 35
+Attacks:
+Bellow -- lowers opponent's Defense by 10% of original value each time used
+Gnaw -- 30 Damage
+Owner: Bright Promise
+Drawn: 07/29/04
+
+----------------------------------------------
+Records for Konati (ep019m)
+----------------------------------------------
+ID#: ep019m
+Name: Konati
+Clan of Eorl's Pride
+Tribe of Swirling Magic
+Cloud male, blue eyes
+Green Stripes
+Bone Horns, Bone Talons, Bone Tail Spikes, Bone Fangs
+Cloud Elemental
+Stage 1.3
+Additions: Element of Cloud, Tail Spikes, Fangs
+Life Points: 135
+Strength: 55
+Speed: 40
+Intelligence: 40
+Cunning: 40
+Defense: 45
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 40 Damage (Augmented by Fangs)
+Cloud Attacks:
+Cloud Forms -- 40 Damage
+Owner: Bright Promise
+Redrawn: 11/29/04 by Bright Promise
+
+----------------------------------------------
+Records for Mirab (ep022f)
+----------------------------------------------
+ID#: ep022f
+Name: Mirab
+Clan of Eorl's Pride
+Tribe of Swirling Magic
+Blue female, blue eyes
+Lighter Points
+Seaweed Back Fins, Sabre Fangs, Claws, Gills
+Water Elemental
+Stage: 1.2
+Additions: Element of Water
+Life Points: 120
+Strength: 45
+Speed: 40
+Intelligence: 30
+Cunning: 35
+Defense: 54 (Base: 45 + 10% from Seaweed Back Fins + 10% Leg Fins)
+Attacks:
+Growl -- lowers opponent's Defense by 10% of original value each time used
+Nip -- 40 Damage (augmented by Sabre Fangs)
+Scratch -- 40 Damage (augmented by Claws)
+Water Attacks:
+Big Splash -- 40 Damage
+Owner: Bright Promise
+Redrawn: 09/26/04 by Bright Promise
